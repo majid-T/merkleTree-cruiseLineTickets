@@ -24,6 +24,6 @@ TBD
 
 TBD
 
-## anything else you think is relevant.
+## Future Development
 
-TBD
+If futre each line number on each date will have its own merkle root. Line number and date of voyage will be included in each ticket hashing so we won't how duplicate tickets on single lines.
