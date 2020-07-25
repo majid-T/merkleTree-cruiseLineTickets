@@ -29,32 +29,30 @@ contract CruiseMerkle {
         return keccak256(abi.encodePacked(uint8(0x01), _left, _right));
     }
 
-    /// @notice Calculates the candidate root of an input
-    /// @param  _path Path (Index) for the registered/existing user in the regisered/existing users list
-    /// @param  _witnesseList Witnesses for the users from registered/ existing users list
-    /// @param _inputAddress Address of the user
-    /// @return  bytes32 Candidate root of the user
+    /// @notice Generate a hash root base of input info
+    /// @param  _path Path (Index) for the issued ticket address
+    /// @param  _witnesseList Witnesses for issued ticket address
+    /// @param _inputAddress Address of the passanger who bought the ticket
+    /// @return  bytes32 Calculated root based on inpt data
     function getRootForInput(
         uint256 _path,
         bytes32[] memory _witnesseList,
         address _inputAddress
     ) private pure returns (bytes32) {
-        // Assigning local variabless
-        // Reason: Security/No-assign-param”: Avoid assigning to function parameters
         uint256 path = _path;
         bytes32[] memory witnesses = _witnesseList;
         address inputAddress = _inputAddress;
-        bytes32 candidateRoot = hashForLeaf(inputAddress); //  Calculates the leaf Hash of the user
+        bytes32 ticketRoot = hashForLeaf(inputAddress); //  Calculates the leaf Hash of the passanger address
         for (uint16 i = 0; i < witnesses.length; i++) {
             if ((path & 0x01) == 1) {
-                //  Calculates the node hash of the user, if data is '0x01'
-                candidateRoot = hashForNode(witnesses[i], candidateRoot);
+                //  Calculations based on 0x01 - ticket root is on the right
+                ticketRoot = hashForNode(witnesses[i], ticketRoot);
             } else {
-                //  Calculates the node hash of the user, if data is '0x00'
-                candidateRoot = hashForNode(candidateRoot, witnesses[i]);
+                //  Calculations based on 0x00 - ticket root is on the left
+                ticketRoot = hashForNode(ticketRoot, witnesses[i]);
             }
             path /= 2;
         }
-        return candidateRoot;
+        return ticketRoot;
     }
 }
