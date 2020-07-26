@@ -155,4 +155,91 @@ contract("Cruise Merke Tree:", (accounts) => {
 
     assert.equal(isValidResult, true, "Valid result didn't return true!");
   });
+
+  //  [Functionality] - Testing for isValidTicket function to return false on wrong path
+  it("Funciton isValidTicket return false for correct infor but wrong path", async () => {
+    const ticketHash =
+      "0x7493d5e512c7370661ed4a5dab94a5c9ee9b741eb2c3cf34c5ff9a63f4dbe6b0";
+
+    const path = 666;
+    const witnesses = [
+      "0x9bea3d39a90a2f41c1ae335422d55018fe686b3f790788767a29ddad7eba4604",
+      "0xf53fb14e9f9b35f7aa34f1427f73396e532fa13071ce467b87dd20155a9d02d6",
+      "0x2666d41bb507a90b35786c3449218682e2e2061606da92345ce4ffcf9d810467",
+      "0x194d23c1d4333fa7edfea8ffcb93651b8f7d5324a8c22d5350dee8acfe5812d4",
+      "0x07c32a447d9c1b535b6b1a91cce9b24136d89fbf44f8d8350c1fa93df2399ec6",
+      "0xd89c335ed79ff14fe28dda4c803d514ce7140b991e7aa5b130319131fedad343",
+      "0x27a865cc9621c8f7e2fad2c75b4f11b558278db101a203a7c63c8cd1d1d6dd6c",
+      "0x334533d454fa43b6871d3ad69fc5fa33a3806c09eba0f9409d057fd558e5aae4",
+      "0x66b15a2770c4dd923ac5433e98badae9073d97d73ef189957029b8c751eb9363",
+      "0xaf33e0af6e5cb86d3dfc7ccb07b1dd1763fc0472dc42fdd4c04f1113fe30f618",
+      "0x555001ba1defb443a1602591d8c07a764799313e787718403b87f31988a3169c",
+    ];
+
+    const isValidResult = await contractInstance.isValidTicket(
+      path,
+      witnesses,
+      ticketHash
+    );
+
+    assert.equal(isValidResult, false, "Invalid result didn't return false!");
+  });
+
+  //  [Functionality] - Testing for isValidTicket function to return false on wrong ricketHash
+  it("Funciton isValidTicket return false for correct infor but wrong path", async () => {
+    const ticketHash =
+      "0x7493d5e512c7370661ed4a5dab94a5c9ee9b741eb2c3cf34c5ff9a63f4dbe6b2";
+
+    const path = 1023;
+    const witnesses = [
+      "0x9bea3d39a90a2f41c1ae335422d55018fe686b3f790788767a29ddad7eba4604",
+      "0xf53fb14e9f9b35f7aa34f1427f73396e532fa13071ce467b87dd20155a9d02d6",
+      "0x2666d41bb507a90b35786c3449218682e2e2061606da92345ce4ffcf9d810467",
+      "0x194d23c1d4333fa7edfea8ffcb93651b8f7d5324a8c22d5350dee8acfe5812d4",
+      "0x07c32a447d9c1b535b6b1a91cce9b24136d89fbf44f8d8350c1fa93df2399ec6",
+      "0xd89c335ed79ff14fe28dda4c803d514ce7140b991e7aa5b130319131fedad343",
+      "0x27a865cc9621c8f7e2fad2c75b4f11b558278db101a203a7c63c8cd1d1d6dd6c",
+      "0x334533d454fa43b6871d3ad69fc5fa33a3806c09eba0f9409d057fd558e5aae4",
+      "0x66b15a2770c4dd923ac5433e98badae9073d97d73ef189957029b8c751eb9363",
+      "0xaf33e0af6e5cb86d3dfc7ccb07b1dd1763fc0472dc42fdd4c04f1113fe30f618",
+      "0x555001ba1defb443a1602591d8c07a764799313e787718403b87f31988a3169c",
+    ];
+
+    const isValidResult = await contractInstance.isValidTicket(
+      path,
+      witnesses,
+      ticketHash
+    );
+
+    assert.equal(isValidResult, false, "Invalid result didn't return false!");
+  });
+
+  //  [Functionality] - Testing for isValidTicket function to return false on only one wrong withness
+  it("Funciton isValidTicket return false for correct infor but wrong path", async () => {
+    const ticketHash =
+      "0x7493d5e512c7370661ed4a5dab94a5c9ee9b741eb2c3cf34c5ff9a63f4dbe6b0";
+
+    const path = 1023;
+    const witnesses = [
+      "0x9bea3d39a90a2f41c1ae335422d55018fe686b3f790788767a29ddad7eba4601",
+      "0xf53fb14e9f9b35f7aa34f1427f73396e532fa13071ce467b87dd20155a9d02d6",
+      "0x2666d41bb507a90b35786c3449218682e2e2061606da92345ce4ffcf9d810467",
+      "0x194d23c1d4333fa7edfea8ffcb93651b8f7d5324a8c22d5350dee8acfe5812d4",
+      "0x07c32a447d9c1b535b6b1a91cce9b24136d89fbf44f8d8350c1fa93df2399ec6",
+      "0xd89c335ed79ff14fe28dda4c803d514ce7140b991e7aa5b130319131fedad343",
+      "0x27a865cc9621c8f7e2fad2c75b4f11b558278db101a203a7c63c8cd1d1d6dd6c",
+      "0x334533d454fa43b6871d3ad69fc5fa33a3806c09eba0f9409d057fd558e5aae4",
+      "0x66b15a2770c4dd923ac5433e98badae9073d97d73ef189957029b8c751eb9363",
+      "0xaf33e0af6e5cb86d3dfc7ccb07b1dd1763fc0472dc42fdd4c04f1113fe30f618",
+      "0x555001ba1defb443a1602591d8c07a764799313e787718403b87f31988a3169c",
+    ];
+
+    const isValidResult = await contractInstance.isValidTicket(
+      path,
+      witnesses,
+      ticketHash
+    );
+
+    assert.equal(isValidResult, false, "Invalid result didn't return false!");
+  });
 });
