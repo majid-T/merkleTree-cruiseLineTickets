@@ -19,17 +19,28 @@ Merkle root here should be root: 0xcd18608fe9a0ddde7241a5c46407f3bafd9193e382c9b
 
 This contract will be useful for boarding passangers, and later on (Since we know what happend to Titanic) by insurance companies or any third party to validate any ticket hash brought to their platform. Users of contract could be but not limited to: Payment systems, Cruise Line Company, Customer Service, Maritime Authorities, Certification Aithorities, Passangers, Third Party API development, Port Authorities,...
 
-<div align="center">
 ![BizPlan](/docs/bizPlan.png)
-</div>
+
+=== Contract Functions ===
+
+| Function      | Input                                                                 | output                      | Description                                                   | access         |
+| ------------- | --------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------- | -------------- |
+| constructor   | address \_lineMerkleRoot                                              | N/A                         | Deploy the contract with root and assigns owner to msg.sender | public         |
+| giveAccess    | address \_adress, bool \_access                                       | none                        | Modifiy access to contract by third party                     | public         |
+| hashForLeaf   | bytes32 \_leaf                                                        | bytes32                     | Hesh for leaf ticket                                          | private - pure |
+| hashForNode   | bytes32 \_left, bytes32 \_right                                       | bytes32                     | Hash for nodes in tree                                        | private - pure |
+| isValidTicket | uint256 \_path, bytes32[] memory \_witnesseList, bytes32 \_ticketHash | Chechs if a ticket is valid | public - view                                                 |
 
 ## Gas cost optimizations
 
 - Avoided the determination of modifier and used inline check for require checkings since its only used once in function calls
 - hashForLeaf & hashForNode functions were declared pure since they don't modify the state.
+- By storing a Merkle Root hash instead of all ticket hashs, significant amount of storage gas is saved
 
 ## Security considerations
 
+- byte32 Merkle root and address owner were positioned on slots 0 and 1 to occupy only needed storge
+- Use of public state variables to use explicit getters function instead of decalring one
 - Smart Contract followed KISS design principle. Keep it simple Stupid targets the use of the technology for it core purpose, and here we needed a blockchain as immutable public distributed ledger to keep Merkle Root of tickets. All other functionalitis can be done off-chain.
 - hashForLeaf & hashForNode functions were declared private so only this contract can access them
 - Contract sets deployer as owner to limit access to contract for owner only
