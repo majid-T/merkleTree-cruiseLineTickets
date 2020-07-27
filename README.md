@@ -25,14 +25,14 @@ This contract will be useful for boarding passangers, and later on (Since we kno
 
 ## Gas cost optimizations
 
-- Avoided the determination of modifier and used inline check for requires since its only used once in function calls
+- Avoided the determination of modifier and used inline check for require checkings since its only used once in function calls
 - hashForLeaf & hashForNode functions were declared pure since they don't modify the state.
 
 ## Security considerations
 
 - Smart Contract followed KISS design principle. Keep it simple Stupid targets the use of the technology for it core purpose, and here we needed a blockchain as immutable public distributed ledger to keep Merkle Root of tickets. All other functionalitis can be done off-chain.
 - hashForLeaf & hashForNode functions were declared private so only this contract can access them
-- Contract sets deployer as owner to limit access to contract foor owner only
+- Contract sets deployer as owner to limit access to contract for owner only
 
 ## Future Development
 
