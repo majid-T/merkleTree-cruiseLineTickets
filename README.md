@@ -1,8 +1,8 @@
 # merkleTree-cruiseLineTickets
 
-Use of Merkle tree / Merkle root to validate passengers tickets
-Student project by : Majid Shockoohi
-Student ID: 101284289
+- Use of Merkle tree / Merkle root to validate passengers tickets
+- Student project by : Majid Shockoohi
+- Student ID: 101284289
 
 ## Description
 
@@ -17,14 +17,30 @@ Each passanger will present its Proof as a ticket and the software will use Merk
 In the data folder we have a txt file tickets.txt and ticket-hashes.txt which is hash of every ticket. Hashing was performed by a hashTickets.js in data folder. Merkle Root and Proofs are prodcued by merkleProducer.js which is a modified version of a .js file we had on a vote-merkle lab.
 Merkle root here should be root: 0xcd18608fe9a0ddde7241a5c46407f3bafd9193e382c9baf11462d2acc4497ce7
 
+This contract will be useful for boarding passangers, and later on (Since we know what happend to Titanic) by insurance companies or any third party to validate any ticket hash brought to their platform. Users of contract could be but not limited to: Payment systems, Cruise Line Company, Customer Service, Maritime Authorities, Certification Aithorities, Passangers, Third Party API development, Port Authorities,...
+
+<div align="center">
+![BizPlan](/docs/bizPlan.png)
+</div>
+
 ## Gas cost optimizations
 
-TBD
+- Avoided the determination of modifier and used inline check for requires since its only used once in function calls
+- hashForLeaf & hashForNode functions were declared pure since they don't modify the state.
 
 ## Security considerations
 
-TBD
+- Smart Contract followed KISS design principle. Keep it simple Stupid targets the use of the technology for it core purpose, and here we needed a blockchain as immutable public distributed ledger to keep Merkle Root of tickets. All other functionalitis can be done off-chain.
+- hashForLeaf & hashForNode functions were declared private so only this contract can access them
+- Contract sets deployer as owner to limit access to contract foor owner only
 
 ## Future Development
 
 If future ticket sale can be done by separate smart contract it self by ether payment. Function ticketSale can take multiple string values just like our example, accept payment and issue ticket. A hash can be emitted and returned to customer as proof. THe hash can be retrvied by another DAPP and be included in a ticket list. On sale finish, Merkle root can be produced and this contract can be deployed to act as check-in utility.
+
+### How to Deploy
+
+1. Clone this project
+1. cd to the directory
+1. npm install to get packages
+1. run truffle test to see test cases and their results
