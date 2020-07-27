@@ -19,9 +19,7 @@ Merkle root here should be root: 0xcd18608fe9a0ddde7241a5c46407f3bafd9193e382c9b
 
 This contract will be useful for boarding passangers, and later on (Since we know what happend to Titanic) by insurance companies or any third party to validate any ticket hash brought to their platform. Users of contract could be but not limited to: Payment systems, Cruise Line Company, Customer Service, Maritime Authorities, Certification Aithorities, Passangers, Third Party API development, Port Authorities,...
 
-<div align="center">
 ![BizPlan](/docs/bizPlan.png)
-</div>
 
 ## Gas cost optimizations
 
