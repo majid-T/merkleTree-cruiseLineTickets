@@ -49,6 +49,12 @@ This contract will be useful for boarding passangers, and later on (Since we kno
 
 If future ticket sale can be done by separate smart contract it self by ether payment. Function ticketSale can take multiple string values just like our example, accept payment and issue ticket. A hash can be emitted and returned to customer as proof. THe hash can be retrvied by another DAPP and be included in a ticket list. On sale finish, Merkle root can be produced and this contract can be deployed to act as check-in utility.
 
+### Testing
+
+Tests are performed on the contract using truffle and below are the results
+
+![tests](/docs/tests.png)
+
 ### How to Deploy
 
 1. Clone this project
