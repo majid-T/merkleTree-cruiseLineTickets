@@ -1,0 +1,1309 @@
+3,Thomas, Maste. Assad Alexander,male,1,TITAN-1,10APR1912,southampton,new-york
+3,Peacock, Maste. Alfred Edward,male,1,TITAN-2,10APR1912,southampton,new-york
+1,Allison, Maste. Hudson Trevor,male,1,TITAN-3,10APR1912,southampton,new-york
+2,Becke, Master. Richard F,male,1,TITAN-4,10APR1912,southampton,new-york
+2,Caldwell, Maste. Alden Gates,male,1,TITAN-5,10APR1912,southampton,new-york
+2,Hamalainen, Maste. Viljo,male,1,TITAN-6,10APR1912,southampton,new-york
+2,Laoche, Miss. Louise,female,1,TITAN-7,10APR1912,southampton,new-york
+2,Mallet, Maste. Andre,male,1,TITAN-8,10APR1912,southampton,new-york
+2,Richads, Master. George Sibley,male,1,TITAN-9,10APR1912,southampton,new-york
+2,West, Miss. Babara J,female,1,TITAN-10,10APR1912,southampton,new-york
+3,Aks, Maste. Philip Frank,male,1,TITAN-11,10APR1912,southampton,new-york
+3,Baclini, Miss. Eugenie,female,1,TITAN-12,10APR1912,southampton,new-york
+3,Baclini, Miss. Helene Babara,female,1,TITAN-13,10APR1912,southampton,new-york
+3,Danbom, Maste. Gilbert Sigvard Emanuel,male,1,TITAN-14,10APR1912,southampton,new-york
+3,Dean, Maste. Bertram Vere,male,1,TITAN-15,10APR1912,southampton,new-york
+3,Dean, Miss. Elizabeth Gladys 'Millvina',female,1,TITAN-16,10APR1912,southampton,new-york
+3,Goodwin, Maste. Sidney Leonard,male,1,TITAN-17,10APR1912,southampton,new-york
+3,Johnson, Miss. Eleano Ileen,female,1,TITAN-18,10APR1912,southampton,new-york
+3,Klasen, Miss. Getrud Emilia,female,1,TITAN-19,10APR1912,southampton,new-york
+3,Nakid, Miss. Maia ('Mary'),female,1,TITAN-20,10APR1912,southampton,new-york
+3,Panula, Maste. Eino Viljami,male,1,TITAN-21,10APR1912,southampton,new-york
+3,Sandstom, Miss. Beatrice Irene,female,1,TITAN-22,10APR1912,southampton,new-york
+1,Allison, Miss. Helen Loaine,female,2,TITAN-23,10APR1912,southampton,new-york
+2,Navatil, Master. Edmond Roger,male,2,TITAN-24,10APR1912,southampton,new-york
+2,Quick, Miss. Phyllis May,female,2,TITAN-25,10APR1912,southampton,new-york
+2,Wells, Maste. Ralph Lester,male,2,TITAN-26,10APR1912,southampton,new-york
+3,Andesson, Miss. Ellis Anna Maria,female,2,TITAN-27,10APR1912,southampton,new-york
+3,Hivonen, Miss. Hildur E,female,2,TITAN-28,10APR1912,southampton,new-york
+3,Palsson, Maste. Gosta Leonard,male,2,TITAN-29,10APR1912,southampton,new-york
+3,Panula, Maste. Urho Abraham,male,2,TITAN-30,10APR1912,southampton,new-york
+3,Rice, Maste. Eugene,male,2,TITAN-31,10APR1912,southampton,new-york
+3,Rosblom, Miss. Salli Helena,female,2,TITAN-32,10APR1912,southampton,new-york
+3,Skoog, Miss. Magit Elizabeth,female,2,TITAN-33,10APR1912,southampton,new-york
+3,Stom, Miss. Telma Matilda,female,2,TITAN-34,10APR1912,southampton,new-york
+2,Laoche, Miss. Simonne Marie Anne Andree,female,3,TITAN-35,10APR1912,southampton,new-york
+2,Navatil, Master. Michel M,male,3,TITAN-36,10APR1912,southampton,new-york
+2,Richads, Master. William Rowe,male,3,TITAN-37,10APR1912,southampton,new-york
+3,Asplund, Maste. Edvin Rojj Felix,male,3,TITAN-38,10APR1912,southampton,new-york
+3,Coutts, Maste. William Loch 'William',male,3,TITAN-39,10APR1912,southampton,new-york
+3,Palsson, Miss. Stina Viola,female,3,TITAN-40,10APR1912,southampton,new-york
+3,Peacock, Miss. Teasteall,female,3,TITAN-41,10APR1912,southampton,new-york
+1,Dodge, Maste. Washington,male,4,TITAN-42,10APR1912,southampton,new-york
+2,Becke, Miss. Marion Louise,female,4,TITAN-43,10APR1912,southampton,new-york
+2,Wells, Miss. Joan,female,4,TITAN-44,10APR1912,southampton,new-york
+3,Andesson, Master. Sigvard Harald Elias,male,4,TITAN-45,10APR1912,southampton,new-york
+3,Johnson, Maste. Harold Theodor,male,4,TITAN-46,10APR1912,southampton,new-york
+3,Kaun, Miss. Manca,female,4,TITAN-47,10APR1912,southampton,new-york
+3,Kink-Heilmann, Miss. Luise Getchen,female,4,TITAN-48,10APR1912,southampton,new-york
+3,Rice, Maste. Arthur,male,4,TITAN-49,10APR1912,southampton,new-york
+3,Sandstom, Miss. Marguerite Rut,female,4,TITAN-50,10APR1912,southampton,new-york
+3,Skoog, Maste. Harald,male,4,TITAN-51,10APR1912,southampton,new-york
+2,West, Miss. Constance Miium,female,5,TITAN-52,10APR1912,southampton,new-york
+3,Asplund, Maste. Carl Edgar,male,5,TITAN-53,10APR1912,southampton,new-york
+3,Asplund, Miss. Lillian Getrud,female,5,TITAN-54,10APR1912,southampton,new-york
+3,Baclini, Miss. Maie Catherine,female,5,TITAN-55,10APR1912,southampton,new-york
+3,Emanuel, Miss. Viginia Ethel,female,5,TITAN-56,10APR1912,southampton,new-york
+1,Spedden, Maste. Robert Douglas,male,6,TITAN-57,10APR1912,southampton,new-york
+2,Haper, Miss. Annie Jessie 'Nina',female,6,TITAN-58,10APR1912,southampton,new-york
+3,Andesson, Miss. Ebba Iris Alfrida,female,6,TITAN-59,10APR1912,southampton,new-york
+3,Boulos, Maste. Akar,male,6,TITAN-60,10APR1912,southampton,new-york
+3,Moo, Master. Meier,male,6,TITAN-61,10APR1912,southampton,new-york
+3,Palsson, Maste. Paul Folke,male,6,TITAN-62,10APR1912,southampton,new-york
+2,Hat, Miss. Eva Miriam,female,7,TITAN-63,10APR1912,southampton,new-york
+3,Panula, Maste. Juha Niilo,male,7,TITAN-64,10APR1912,southampton,new-york
+3,Rice, Maste. Eric,male,7,TITAN-65,10APR1912,southampton,new-york
+3,Touma, Maste. Georges Youssef,male,7,TITAN-66,10APR1912,southampton,new-york
+2,Collye, Miss. Marjorie 'Lottie',female,8,TITAN-67,10APR1912,southampton,new-york
+2,Davies, Maste. John Morgan Jr,male,8,TITAN-68,10APR1912,southampton,new-york
+2,Dew, Master. Marshall Brines,male,8,TITAN-69,10APR1912,southampton,new-york
+2,Quick, Miss. Winifed Vera,female,8,TITAN-70,10APR1912,southampton,new-york
+3,Palsson, Miss. Toborg Danira,female,8,TITAN-71,10APR1912,southampton,new-york
+3,Rice, Maste. George Hugh,male,8,TITAN-72,10APR1912,southampton,new-york
+3,Andesson, Miss. Ingeborg Constanzia,female,9,TITAN-73,10APR1912,southampton,new-york
+3,Asplund, Maste. Clarence Gustaf Hugo,male,9,TITAN-74,10APR1912,southampton,new-york
+3,Boulos, Miss. Nouelain,female,9,TITAN-75,10APR1912,southampton,new-york
+3,Coutts, Maste. Eden Leslie 'Neville',male,9,TITAN-76,10APR1912,southampton,new-york
+3,Fod, Miss. Robina Maggie 'Ruby',female,9,TITAN-77,10APR1912,southampton,new-york
+3,Goldsmith, Maste. Frank John William 'Frankie',male,9,TITAN-78,10APR1912,southampton,new-york
+3,Goodwin, Maste. Harold Victor,male,9,TITAN-79,10APR1912,southampton,new-york
+3,Olsen, Maste. Artur Karl,male,9,TITAN-80,10APR1912,southampton,new-york
+3,Skoog, Miss. Mabel,female,9,TITAN-81,10APR1912,southampton,new-york
+3,Touma, Miss. Maia Youssef,female,9,TITAN-82,10APR1912,southampton,new-york
+3,Goodwin, Miss. Jessie Allis,female,10,TITAN-83,10APR1912,southampton,new-york
+3,Rice, Maste. Albert,male,10,TITAN-84,10APR1912,southampton,new-york
+3,Skoog, Maste. Karl Thorsten,male,10,TITAN-85,10APR1912,southampton,new-york
+3,Van Impe, Miss. Cathaina,female,10,TITAN-86,10APR1912,southampton,new-york
+1,Cater, Master. William Thornton II,male,11,TITAN-87,10APR1912,southampton,new-york
+3,Andesson, Miss. Sigrid Elisabeth,female,11,TITAN-88,10APR1912,southampton,new-york
+3,Goodwin, Maste. William Frederick,male,11,TITAN-89,10APR1912,southampton,new-york
+3,Hassan, M. Houssein G N,male,11,TITAN-90,10APR1912,southampton,new-york
+3,van Billiad, Master. Walter John,male,11.5,TITAN-91,10APR1912,southampton,new-york
+2,Becke, Miss. Ruth Elizabeth,female,12,TITAN-92,10APR1912,southampton,new-york
+2,Watt, Miss. Betha J,female,12,TITAN-93,10APR1912,southampton,new-york
+3,Nicola-Yared, Master. Elias,male,12,TITAN-94,10APR1912,southampton,new-york
+1,Ryeson, Master. John Borie,male,13,TITAN-95,10APR1912,southampton,new-york
+2,Mellinge, Miss. Madeleine Violet,female,13,TITAN-96,10APR1912,southampton,new-york
+3,Abbott, Maste. Eugene Joseph,male,13,TITAN-97,10APR1912,southampton,new-york
+3,Asplund, Maste. Filip Oscar,male,13,TITAN-98,10APR1912,southampton,new-york
+3,Ayoub, Miss. Banoua,female,13,TITAN-99,10APR1912,southampton,new-york
+1,Cater, Miss. Lucile Polk,female,14,TITAN-100,10APR1912,southampton,new-york
+2,Nasse, Mrs. Nicholas (Adele Achem),female,14,TITAN-101,10APR1912,southampton,new-york
+2,Sweet, M. George Frederick,male,14,TITAN-102,10APR1912,southampton,new-york
+3,Goodwin, M. Charles Edward,male,14,TITAN-103,10APR1912,southampton,new-york
+3,Nicola-Yared, Miss. Jamila,female,14,TITAN-104,10APR1912,southampton,new-york
+3,Panula, M. Jaako Arnold,male,14,TITAN-105,10APR1912,southampton,new-york
+3,Svensson, M. Johan Cervin,male,14,TITAN-106,10APR1912,southampton,new-york
+3,Vestom, Miss. Hulda Amanda Adolfina,female,14,TITAN-107,10APR1912,southampton,new-york
+3,Sage, Maste. William Henry,male,14,TITAN-108,10APR1912,southampton,new-york
+3,Zabou, Miss. Hileni,female,14,TITAN-109,10APR1912,southampton,new-york
+1,Madill, Miss. Geogette Alexandra,female,15,TITAN-110,10APR1912,southampton,new-york
+2,Bown, Miss. Edith Eileen,female,15,TITAN-111,10APR1912,southampton,new-york
+3,Elias, M. Tannous,male,15,TITAN-112,10APR1912,southampton,new-york
+3,McGowan, Miss. Anna 'Annie',female,15,TITAN-113,10APR1912,southampton,new-york
+3,Najib, Miss. Adele Kiamie 'Jane',female,15,TITAN-114,10APR1912,southampton,new-york
+3,Yasbeck, Ms. Antoni (Selini Alexander),female,15,TITAN-115,10APR1912,southampton,new-york
+1,Hippach, Miss. Jean Getrude,female,16,TITAN-116,10APR1912,southampton,new-york
+1,Lines, Miss. May Conover,female,16,TITAN-117,10APR1912,southampton,new-york
+1,Maioni, Miss. Robeta,female,16,TITAN-118,10APR1912,southampton,new-york
+2,Gaskell, M. Alfred,male,16,TITAN-119,10APR1912,southampton,new-york
+2,Mudd, M. Thomas Charles,male,16,TITAN-120,10APR1912,southampton,new-york
+3,Abbott, M. Rossmore Edward,male,16,TITAN-121,10APR1912,southampton,new-york
+3,Abelseth, Miss. Kaen Marie,female,16,TITAN-122,10APR1912,southampton,new-york
+3,Car, Miss. Helen 'Ellen',female,16,TITAN-123,10APR1912,southampton,new-york
+3,de Pelsmaeke, Mr. Alfons,male,16,TITAN-124,10APR1912,southampton,new-york
+3,Eklund, M. Hans Linus,male,16,TITAN-125,10APR1912,southampton,new-york
+3,Fod, Mr. William Neal,male,16,TITAN-126,10APR1912,southampton,new-york
+3,Gilnagh, Miss. Katheine 'Katie',female,16,TITAN-127,10APR1912,southampton,new-york
+3,Goodwin, Miss. Lillian Amy,female,16,TITAN-128,10APR1912,southampton,new-york
+3,Osen, M. Olaf Elon,male,16,TITAN-129,10APR1912,southampton,new-york
+3,Panula, M. Ernesti Arvid,male,16,TITAN-130,10APR1912,southampton,new-york
+3,Rush, M. Alfred George John,male,16,TITAN-131,10APR1912,southampton,new-york
+3,Sundeland, Mr. Victor Francis,male,16,TITAN-132,10APR1912,southampton,new-york
+3,Thomas, Ms. Alexander (Thamine 'Thelma'),female,16,TITAN-133,10APR1912,southampton,new-york
+3,Vande Planke, Mr. Leo Edmondus,male,16,TITAN-134,10APR1912,southampton,new-york
+1,Carau, Mr. Jose Pedro,male,17,TITAN-135,10APR1912,southampton,new-york
+1,Dick, Ms. Albert Adrian (Vera Gillespie),female,17,TITAN-136,10APR1912,southampton,new-york
+1,Penasco y Castellana, Ms. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),female,17,TITAN-137,10APR1912,southampton,new-york
+1,Thaye, Mr. John Borland Jr,male,17,TITAN-138,10APR1912,southampton,new-york
+2,Deacon, M. Percy William,male,17,TITAN-139,10APR1912,southampton,new-york
+2,Ilett, Miss. Betha,female,17,TITAN-140,10APR1912,southampton,new-york
+2,Lehmann, Miss. Betha,female,17,TITAN-141,10APR1912,southampton,new-york
+3,Andesson, Miss. Erna Alexandra,female,17,TITAN-142,10APR1912,southampton,new-york
+3,Attalah, Miss. Malake,female,17,TITAN-143,10APR1912,southampton,new-york
+3,Calic, M. Jovo,male,17,TITAN-144,10APR1912,southampton,new-york
+3,Calic, M. Petar,male,17,TITAN-145,10APR1912,southampton,new-york
+3,Cibb, Miss. Laura Alice,female,17,TITAN-146,10APR1912,southampton,new-york
+3,Culumovic, M. Jeso,male,17,TITAN-147,10APR1912,southampton,new-york
+3,Davies, M. Joseph,male,17,TITAN-148,10APR1912,southampton,new-york
+3,Dika, M. Mirko,male,17,TITAN-149,10APR1912,southampton,new-york
+3,Elias, M. Joseph Jr,male,17,TITAN-150,10APR1912,southampton,new-york
+3,Hagadon, Miss. Kate,female,17,TITAN-151,10APR1912,southampton,new-york
+3,Jensen, M. Svend Lauritz,male,17,TITAN-152,10APR1912,southampton,new-york
+3,Kallio, M. Nikolai Erland,male,17,TITAN-153,10APR1912,southampton,new-york
+3,Poknic, Mr. Mate,male,17,TITAN-154,10APR1912,southampton,new-york
+1,Asto, Mrs. John Jacob (Madeleine Talmadge Force),female,18,TITAN-155,10APR1912,southampton,new-york
+1,Mavin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson),female,18,TITAN-156,10APR1912,southampton,new-york
+1,Penasco y Castellana, M. Victor de Satode,male,18,TITAN-157,10APR1912,southampton,new-york
+1,Ryeson, Miss. Emily Borie,female,18,TITAN-158,10APR1912,southampton,new-york
+1,Smith, Ms. Lucien Philip (Mary Eloise Hughes),female,18,TITAN-159,10APR1912,southampton,new-york
+1,Taussig, Miss. Ruth,female,18,TITAN-160,10APR1912,southampton,new-york
+2,Andew, Mr. Edgardo Samuel,male,18,TITAN-161,10APR1912,southampton,new-york
+2,Bailey, M. Percy Andrew,male,18,TITAN-162,10APR1912,southampton,new-york
+2,Davies, M. Charles Henry,male,18,TITAN-163,10APR1912,southampton,new-york
+2,Dibden, M. William,male,18,TITAN-164,10APR1912,southampton,new-york
+2,Doling, Miss. Elsie,female,18,TITAN-165,10APR1912,southampton,new-york
+2,Fahlstom, Mr. Arne Jonas,male,18,TITAN-166,10APR1912,southampton,new-york
+2,Fillbook, Mr. Joseph Charles,male,18,TITAN-167,10APR1912,southampton,new-york
+2,Hiltunen, Miss. Mata,female,18,TITAN-168,10APR1912,southampton,new-york
+2,Silven, Miss. Lyyli Kaoliina,female,18,TITAN-169,10APR1912,southampton,new-york
+2,Swane, M. George,male,18,TITAN-170,10APR1912,southampton,new-york
+3,Abahim, Mrs. Joseph (Sophie Halaut Easu),female,18,TITAN-171,10APR1912,southampton,new-york
+3,Aks, Ms. Sam (Leah Rosen),female,18,TITAN-172,10APR1912,southampton,new-york
+3,Allum, M. Owen George,male,18,TITAN-173,10APR1912,southampton,new-york
+3,Anold-Franchi, Mrs. Josef (Josefine Franchi),female,18,TITAN-174,10APR1912,southampton,new-york
+3,Badman, Miss. Emily Louisa,female,18,TITAN-175,10APR1912,southampton,new-york
+3,Babara, Miss. Saiide,female,18,TITAN-176,10APR1912,southampton,new-york
+3,Bjoklund, Mr. Ernst Herbert,male,18,TITAN-177,10APR1912,southampton,new-york
+3,Buckley, Miss. Katheine,female,18,TITAN-178,10APR1912,southampton,new-york
+3,Buns, Miss. Mary Delia,female,18,TITAN-179,10APR1912,southampton,new-york
+3,Cacic, M. Jego Grga,male,18,TITAN-180,10APR1912,southampton,new-york
+3,Chonopoulos, Mr. Demetrios,male,18,TITAN-181,10APR1912,southampton,new-york
+3,Cohen, M. Gurshon 'Gus',male,18,TITAN-182,10APR1912,southampton,new-york
+3,Edvadsson, Mr. Gustaf Hjalmar,male,18,TITAN-183,10APR1912,southampton,new-york
+3,Fische, Mr. Eberhard Thelander,male,18,TITAN-184,10APR1912,southampton,new-york
+3,Fod, Mr. Edward Watson,male,18,TITAN-185,10APR1912,southampton,new-york
+3,Hegaty, Miss. Hanora 'Nora',female,18,TITAN-186,10APR1912,southampton,new-york
+3,Klasen, M. Klas Albin,male,18,TITAN-187,10APR1912,southampton,new-york
+3,Myhman, Mr. Pehr Fabian Oliver Malkolm,male,18,TITAN-188,10APR1912,southampton,new-york
+3,Nilsson, Miss. Beta Olivia,female,18,TITAN-189,10APR1912,southampton,new-york
+3,Pettesson, Miss. Ellen Natalia,female,18,TITAN-190,10APR1912,southampton,new-york
+3,Rosblom, M. Viktor Richard,male,18,TITAN-191,10APR1912,southampton,new-york
+3,Sjoblom, Miss. Anna Sofia,female,18,TITAN-192,10APR1912,southampton,new-york
+3,Tuja, Miss. Anna Sofia,female,18,TITAN-193,10APR1912,southampton,new-york
+3,Vande Planke, Miss. Augusta Maria,female,18,TITAN-194,10APR1912,southampton,new-york
+3,Wiklund, M. Jakob Alfred,male,18,TITAN-195,10APR1912,southampton,new-york
+3,Katavelas, M. Vassilios ('Catavelas Vassilios'),male,18,TITAN-196,10APR1912,southampton,new-york
+1,Bishop, Ms. Dickinson H (Helen Walton),female,19,TITAN-197,10APR1912,southampton,new-york
+1,Fotune, Mr. Charles Alexander,male,19,TITAN-198,10APR1912,southampton,new-york
+1,Gaham, Miss. Margaret Edith,female,19,TITAN-199,10APR1912,southampton,new-york
+1,Mavin, Mr. Daniel Warner,male,19,TITAN-200,10APR1912,southampton,new-york
+1,Newsom, Miss. Helen Monypeny,female,19,TITAN-201,10APR1912,southampton,new-york
+2,Beane, Ms. Edward (Ethel Clarke),female,19,TITAN-202,10APR1912,southampton,new-york
+2,Bentham, Miss. Lilian W,female,19,TITAN-203,10APR1912,southampton,new-york
+2,Cabines, Mr. William,male,19,TITAN-204,10APR1912,southampton,new-york
+2,Mellos, Mr. William John,male,19,TITAN-205,10APR1912,southampton,new-york
+2,Nicholls, M. Joseph Charles,male,19,TITAN-206,10APR1912,southampton,new-york
+2,Pengelly, M. Frederick William,male,19,TITAN-207,10APR1912,southampton,new-york
+2,Phillips, Miss. Kate Floence ('Mrs Kate Louise Phillips Marshall'),female,19,TITAN-208,10APR1912,southampton,new-york
+2,Roges, Mr. Reginald Harry,male,19,TITAN-209,10APR1912,southampton,new-york
+3,Andesen-Jensen, Miss. Carla Christine Nielsine,female,19,TITAN-210,10APR1912,southampton,new-york
+3,Beavan, M. William Thomas,male,19,TITAN-211,10APR1912,southampton,new-york
+3,Buke, Mr. Jeremiah,male,19,TITAN-212,10APR1912,southampton,new-york
+3,Co, Mr. Liudevit,male,19,TITAN-213,10APR1912,southampton,new-york
+3,Cease, Mr. Ernest James,male,19,TITAN-214,10APR1912,southampton,new-york
+3,Dakic, M. Branko,male,19,TITAN-215,10APR1912,southampton,new-york
+3,Devaney, Miss. Magaret Delia,female,19,TITAN-216,10APR1912,southampton,new-york
+3,Doking, Mr. Edward Arthur,male,19,TITAN-217,10APR1912,southampton,new-york
+3,Gustafsson, M. Karl Gideon,male,19,TITAN-218,10APR1912,southampton,new-york
+3,Johnson, M. William Cahoone Jr,male,19,TITAN-219,10APR1912,southampton,new-york
+3,McNamee, Ms. Neal (Eileen O'Leary),female,19,TITAN-220,10APR1912,southampton,new-york
+3,Nakid, Ms. Said (Waika 'Mary' Mowad),female,19,TITAN-221,10APR1912,southampton,new-york
+3,Patchett, M. George,male,19,TITAN-222,10APR1912,southampton,new-york
+3,Petoff, Mr. Nedelio,male,19,TITAN-223,10APR1912,southampton,new-york
+3,Soholt, M. Peter Andreas Lauritz Andersen,male,19,TITAN-224,10APR1912,southampton,new-york
+3,Stoytcheff, M. Ilia,male,19,TITAN-225,10APR1912,southampton,new-york
+2,Byhl, Miss. Dagmar Jenny Ingeborg,female,20,TITAN-226,10APR1912,southampton,new-york
+2,Hocking, Miss. Ellen 'Nellie',female,20,TITAN-227,10APR1912,southampton,new-york
+2,Nouney, Mr. Alfred ('Baron von Drachstedt'),male,20,TITAN-228,10APR1912,southampton,new-york
+2,Sincock, Miss. Maude,female,20,TITAN-229,10APR1912,southampton,new-york
+3,Abahamsson, Mr. Abraham August Johannes,male,20,TITAN-230,10APR1912,southampton,new-york
+3,Alhomaki, M. Ilmari Rudolf,male,20,TITAN-231,10APR1912,southampton,new-york
+3,Andeasson, Mr. Paul Edvin,male,20,TITAN-232,10APR1912,southampton,new-york
+3,Baccos, M. Raffull,male,20,TITAN-233,10APR1912,southampton,new-york
+3,Baah, Mr. Hanna Assi,male,20,TITAN-234,10APR1912,southampton,new-york
+3,Betos, Mr. Tannous,male,20,TITAN-235,10APR1912,southampton,new-york
+3,Baf, Miss. Elin Ester Maria,female,20,TITAN-236,10APR1912,southampton,new-york
+3,Coelho, M. Domingos Fernandeo,male,20,TITAN-237,10APR1912,southampton,new-york
+3,Gustafsson, M. Alfred Ossian,male,20,TITAN-238,10APR1912,southampton,new-york
+3,Hampe, M. Leon,male,20,TITAN-239,10APR1912,southampton,new-york
+3,Jensen, M. Hans Peder,male,20,TITAN-240,10APR1912,southampton,new-york
+3,Jussila, Miss. Katiina,female,20,TITAN-241,10APR1912,southampton,new-york
+3,Lindqvist, M. Eino William,male,20,TITAN-242,10APR1912,southampton,new-york
+3,Nakid, M. Sahid,male,20,TITAN-243,10APR1912,southampton,new-york
+3,Olsvigen, M. Thor Anderson,male,20,TITAN-244,10APR1912,southampton,new-york
+3,Oeskovic, Miss. Marija,female,20,TITAN-245,10APR1912,southampton,new-york
+3,Oeskovic, Mr. Luka,male,20,TITAN-246,10APR1912,southampton,new-york
+3,Saundecock, Mr. William Henry,male,20,TITAN-247,10APR1912,southampton,new-york
+3,Vendel, M. Olof Edvin,male,20,TITAN-248,10APR1912,southampton,new-york
+3,Lovell, M. John Hall ('Henry'),male,20,TITAN-249,10APR1912,southampton,new-york
+1,Longley, Miss. Getchen Fiske,female,21,TITAN-250,10APR1912,southampton,new-york
+1,Ryeson, Miss. Susan Parker 'Suzette',female,21,TITAN-251,10APR1912,southampton,new-york
+1,White, M. Richard Frasar,male,21,TITAN-252,10APR1912,southampton,new-york
+1,Willad, Miss. Constance,female,21,TITAN-253,10APR1912,southampton,new-york
+1,Williams, M. Richard Norris II,male,21,TITAN-254,10APR1912,southampton,new-york
+2,Cotteill, Mr. Henry 'Harry',male,21,TITAN-255,10APR1912,southampton,new-york
+2,Enande, Mr. Ingvar,male,21,TITAN-256,10APR1912,southampton,new-york
+2,Giles, M. Edgar,male,21,TITAN-257,10APR1912,southampton,new-york
+2,Giles, M. Frederick Edward,male,21,TITAN-258,10APR1912,southampton,new-york
+2,Hickman, M. Stanley George,male,21,TITAN-259,10APR1912,southampton,new-york
+2,Hood, M. Ambrose Jr,male,21,TITAN-260,10APR1912,southampton,new-york
+2,Phillips, Miss. Alice Fances Louisa,female,21,TITAN-261,10APR1912,southampton,new-york
+2,Rugg, Miss. Emily,female,21,TITAN-262,10APR1912,southampton,new-york
+3,Assaf, M. Gerios,male,21,TITAN-263,10APR1912,southampton,new-york
+3,Bikeland, Mr. Hans Martin Monsen,male,21,TITAN-264,10APR1912,southampton,new-york
+3,Bowen, M. David John 'Dai',male,21,TITAN-265,10APR1912,southampton,new-york
+3,Buckley, M. Daniel,male,21,TITAN-266,10APR1912,southampton,new-york
+3,Cacic, Miss. Manda,female,21,TITAN-267,10APR1912,southampton,new-york
+3,Canavan, Miss. May,female,21,TITAN-268,10APR1912,southampton,new-york
+3,Canavan, M. Patrick,male,21,TITAN-269,10APR1912,southampton,new-york
+3,Cann, M. Ernest Charles,male,21,TITAN-270,10APR1912,southampton,new-york
+3,Chaters, Mr. David,male,21,TITAN-271,10APR1912,southampton,new-york
+3,Davies, M. John Samuel,male,21,TITAN-272,10APR1912,southampton,new-york
+3,Fod, Miss. Doolina Margaret 'Daisy',female,21,TITAN-273,10APR1912,southampton,new-york
+3,Hansen, M. Henry Damsgaard,male,21,TITAN-274,10APR1912,southampton,new-york
+3,Jansson, M. Carl Olof,male,21,TITAN-275,10APR1912,southampton,new-york
+3,Jussila, Miss. Mai Aina,female,21,TITAN-276,10APR1912,southampton,new-york
+3,Kalvik, M. Johannes Halvorsen,male,21,TITAN-277,10APR1912,southampton,new-york
+3,Kalsson, Mr. Einar Gervasius,male,21,TITAN-278,10APR1912,southampton,new-york
+3,Midtsjo, M. Karl Albert,male,21,TITAN-279,10APR1912,southampton,new-york
+3,Minkoff, M. Lazar,male,21,TITAN-280,10APR1912,southampton,new-york
+3,Nilsson, M. August Ferdinand,male,21,TITAN-281,10APR1912,southampton,new-york
+3,Noswothy, Mr. Richard Cater,male,21,TITAN-282,10APR1912,southampton,new-york
+3,Pasic, M. Jakob,male,21,TITAN-283,10APR1912,southampton,new-york
+3,Pekoniemi, M. Edvard,male,21,TITAN-284,10APR1912,southampton,new-york
+3,Reynolds, M. Harold J,male,21,TITAN-285,10APR1912,southampton,new-york
+3,Salkjelsvik, Miss. Anna Kistine,female,21,TITAN-286,10APR1912,southampton,new-york
+3,Sivola, M. Antti Wilhelm,male,21,TITAN-287,10APR1912,southampton,new-york
+3,Stanley, M. Edward Roland,male,21,TITAN-288,10APR1912,southampton,new-york
+3,Wiklund, M. Karl Johan,male,21,TITAN-289,10APR1912,southampton,new-york
+3,Windelov, M. Einar,male,21,TITAN-290,10APR1912,southampton,new-york
+1,Boweman, Miss. Elsie Edith,female,22,TITAN-291,10APR1912,southampton,new-york
+1,Cleave, Miss. Alice,female,22,TITAN-292,10APR1912,southampton,new-york
+1,Folicher, Miss. Hedwig Margaritha,female,22,TITAN-293,10APR1912,southampton,new-york
+1,Gibson, Miss. Doothy Winifred,female,22,TITAN-294,10APR1912,southampton,new-york
+1,Ostby, Miss. Helene Ragnhild,female,22,TITAN-295,10APR1912,southampton,new-york
+1,Peas, Mrs. Thomas (Edith Wearne),female,22,TITAN-296,10APR1912,southampton,new-york
+1,Ringhini, M. Sante,male,22,TITAN-297,10APR1912,southampton,new-york
+2,Caldwell, Ms. Albert Francis (Sylvia Mae Harbaugh),female,22,TITAN-298,10APR1912,southampton,new-york
+2,Cook, Ms. (Selena Rogers),female,22,TITAN-299,10APR1912,southampton,new-york
+2,Jeffeys, Mr. Ernest Wilfred,male,22,TITAN-300,10APR1912,southampton,new-york
+2,Kanes, Mrs. J Frank (Claire Bennett),female,22,TITAN-301,10APR1912,southampton,new-york
+2,Laoche, Mrs. Joseph (Juliette Marie Louise Lafargue),female,22,TITAN-302,10APR1912,southampton,new-york
+2,Oxenham, M. Percy Thomas,male,22,TITAN-303,10APR1912,southampton,new-york
+3,Baton, Mr. David John,male,22,TITAN-304,10APR1912,southampton,new-york
+3,Beglund, Mr. Karl Ivar Sven,male,22,TITAN-305,10APR1912,southampton,new-york
+3,Badley, Miss. Bridget Delia,female,22,TITAN-306,10APR1912,southampton,new-york
+3,Baund, Mr. Owen Harris,male,22,TITAN-307,10APR1912,southampton,new-york
+3,Bobeck, Mr. Karl Rudolf,male,22,TITAN-308,10APR1912,southampton,new-york
+3,Connolly, Miss. Kate,female,22,TITAN-309,10APR1912,southampton,new-york
+3,Dahe, Mr. Shedid,male,22,TITAN-310,10APR1912,southampton,new-york
+3,Dahlbeg, Miss. Gerda Ulrika,female,22,TITAN-311,10APR1912,southampton,new-york
+3,Davies, M. Evan,male,22,TITAN-312,10APR1912,southampton,new-york
+3,Dennis, M. Samuel,male,22,TITAN-313,10APR1912,southampton,new-york
+3,Dyke, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson),female,22,TITAN-314,10APR1912,southampton,new-york
+3,Gilinski, M. Eliezer,male,22,TITAN-315,10APR1912,southampton,new-york
+3,Hellstom, Miss. Hilda Maria,female,22,TITAN-316,10APR1912,southampton,new-york
+3,Hivonen, Mrs. Alexander (Helga E Lindqvist),female,22,TITAN-317,10APR1912,southampton,new-york
+3,Johansson, M. Erik,male,22,TITAN-318,10APR1912,southampton,new-york
+3,Kalsson, Mr. Nils August,male,22,TITAN-319,10APR1912,southampton,new-york
+3,Kink, Miss. Maia,female,22,TITAN-320,10APR1912,southampton,new-york
+3,Landegren, Miss. Aurora Adelia,female,22,TITAN-321,10APR1912,southampton,new-york
+3,Lasson-Rondberg, Mr. Edvard A,male,22,TITAN-322,10APR1912,southampton,new-york
+3,Leeni, M. Fahim ('Philip Zenni'),male,22,TITAN-323,10APR1912,southampton,new-york
+3,Maenpaa, M. Matti Alexanteri,male,22,TITAN-324,10APR1912,southampton,new-york
+3,Naidenoff, M. Penko,male,22,TITAN-325,10APR1912,southampton,new-york
+3,Nysten, Miss. Anna Sofia,female,22,TITAN-326,10APR1912,southampton,new-york
+3,Ohman, Miss. Velin,female,22,TITAN-327,10APR1912,southampton,new-york
+3,Pekin, Mr. John Henry,male,22,TITAN-328,10APR1912,southampton,new-york
+3,Riihivoui, Miss. Susanna Juhantytar 'Sanni',female,22,TITAN-329,10APR1912,southampton,new-york
+3,Siayanian, Mr. Orsen,male,22,TITAN-330,10APR1912,southampton,new-york
+3,Standberg, Miss. Ida Sofia,female,22,TITAN-331,10APR1912,southampton,new-york
+3,Vatanian, Mr. David,male,22,TITAN-332,10APR1912,southampton,new-york
+3,Vovk, M. Janko,male,22,TITAN-333,10APR1912,southampton,new-york
+3,Waelens, M. Achille,male,22,TITAN-334,10APR1912,southampton,new-york
+1,Eanshaw, Mrs. Boulton (Olive Potter),female,23,TITAN-335,10APR1912,southampton,new-york
+1,Fotune, Miss. Mabel Helen,female,23,TITAN-336,10APR1912,southampton,new-york
+1,Geenfield, Mr. William Bertram,male,23,TITAN-337,10APR1912,southampton,new-york
+1,Newell, Miss. Majorie,female,23,TITAN-338,10APR1912,southampton,new-york
+1,Payne, M. Vivian Ponsonby,male,23,TITAN-339,10APR1912,southampton,new-york
+1,Snyde, Mrs. John Pillsbury (Nelle Stevenson),female,23,TITAN-340,10APR1912,southampton,new-york
+2,Baimbigge, Mr. Charles Robert,male,23,TITAN-341,10APR1912,southampton,new-york
+2,Beriman, Mr. William John,male,23,TITAN-342,10APR1912,southampton,new-york
+2,Eitemille, Mr. George Floyd,male,23,TITAN-343,10APR1912,southampton,new-york
+2,Hocking, M. Richard George,male,23,TITAN-344,10APR1912,southampton,new-york
+2,Jewan, Mrs. Amin S (Marie Marthe Thuillard),female,23,TITAN-345,10APR1912,southampton,new-york
+2,Pain, D. Alfred,male,23,TITAN-346,10APR1912,southampton,new-york
+2,Richad, Mr. Emile,male,23,TITAN-347,10APR1912,southampton,new-york
+2,Toupiansky, Mr. Moses Aaron,male,23,TITAN-348,10APR1912,southampton,new-york
+2,Wae, Mr. William Jeffery,male,23,TITAN-349,10APR1912,southampton,new-york
+3,Asplund, M. Johan Charles,male,23,TITAN-350,10APR1912,southampton,new-york
+3,Assam, M. Ali,male,23,TITAN-351,10APR1912,southampton,new-york
+3,Augustsson, M. Albert,male,23,TITAN-352,10APR1912,southampton,new-york
+3,Dapkin, Miss. Jennie,female,23,TITAN-353,10APR1912,southampton,new-york
+3,Dyke, Mr. Adolf Fredrik,male,23,TITAN-354,10APR1912,southampton,new-york
+3,Hanna, M. Mansour,male,23,TITAN-355,10APR1912,southampton,new-york
+3,Heininen, Miss. Wendla Maia,female,23,TITAN-356,10APR1912,southampton,new-york
+3,Jonkoff, M. Lalio,male,23,TITAN-357,10APR1912,southampton,new-york
+3,Lundin, Miss. Olga Elida,female,23,TITAN-358,10APR1912,southampton,new-york
+3,Odahl, M. Nils Martin,male,23,TITAN-359,10APR1912,southampton,new-york
+3,Oeskovic, Miss. Jelka,female,23,TITAN-360,10APR1912,southampton,new-york
+3,Stanley, Miss. Amy Zillah Elsie,female,23,TITAN-361,10APR1912,southampton,new-york
+1,Aubat, Mme. Leontine Pauline,female,24,TITAN-362,10APR1912,southampton,new-york
+1,Baxte, Mr. Quigg Edmond,male,24,TITAN-363,10APR1912,southampton,new-york
+1,Fotune, Miss. Alice Elizabeth,female,24,TITAN-364,10APR1912,southampton,new-york
+1,Giglio, M. Victor,male,24,TITAN-365,10APR1912,southampton,new-york
+1,Hays, Miss. Magaret Bechstein,female,24,TITAN-366,10APR1912,southampton,new-york
+1,Mayne, Mlle. Bethe Antonine ('Mrs de Villiers'),female,24,TITAN-367,10APR1912,southampton,new-york
+1,Sagesse, Mlle. Emma,female,24,TITAN-368,10APR1912,southampton,new-york
+1,Smith, M. Lucien Philip,male,24,TITAN-369,10APR1912,southampton,new-york
+1,Snyde, Mr. John Pillsbury,male,24,TITAN-370,10APR1912,southampton,new-york
+2,Bown, Miss. Amelia 'Mildred',female,24,TITAN-371,10APR1912,southampton,new-york
+2,Collett, M. Sidney C Stuart,male,24,TITAN-372,10APR1912,southampton,new-york
+2,del Calo, Mrs. Sebastiano (Argenia Genovesi),female,24,TITAN-373,10APR1912,southampton,new-york
+2,Giles, M. Ralph,male,24,TITAN-374,10APR1912,southampton,new-york
+2,Gill, M. John William,male,24,TITAN-375,10APR1912,southampton,new-york
+2,Hamalainen, Ms. William (Anna),female,24,TITAN-376,10APR1912,southampton,new-york
+2,Heman, Miss. Alice,female,24,TITAN-377,10APR1912,southampton,new-york
+2,Heman, Miss. Kate,female,24,TITAN-378,10APR1912,southampton,new-york
+2,Hickman, M. Leonard Mark,male,24,TITAN-379,10APR1912,southampton,new-york
+2,Jacobsohn, Ms. Sidney Samuel (Amy Frances Christy),female,24,TITAN-380,10APR1912,southampton,new-york
+2,Jeffeys, Mr. Clifford Thomas,male,24,TITAN-381,10APR1912,southampton,new-york
+2,Kanto, Mrs. Sinai (Miriam Sternin),female,24,TITAN-382,10APR1912,southampton,new-york
+2,Leyson, M. Robert William Norman,male,24,TITAN-383,10APR1912,southampton,new-york
+2,Mallet, Ms. Albert (Antoinette Magnin),female,24,TITAN-384,10APR1912,southampton,new-york
+2,Richads, Mrs. Sidney (Emily Hocking),female,24,TITAN-385,10APR1912,southampton,new-york
+2,Yois, Miss. Henriette ('Mrs Harbeck'),female,24,TITAN-386,10APR1912,southampton,new-york
+3,Ali, M. Ahmed,male,24,TITAN-387,10APR1912,southampton,new-york
+3,Aonsson, Mr. Ernst Axel Algot,male,24,TITAN-388,10APR1912,southampton,new-york
+3,Baclini, Ms. Solomon (Latifa Qurban),female,24,TITAN-389,10APR1912,southampton,new-york
+3,Calsson, Mr. Carl Robert,male,24,TITAN-390,10APR1912,southampton,new-york
+3,Celotti, M. Francesco,male,24,TITAN-391,10APR1912,southampton,new-york
+3,Colbet, Mr. Patrick,male,24,TITAN-392,10APR1912,southampton,new-york
+3,Coleff, M. Satio,male,24,TITAN-393,10APR1912,southampton,new-york
+3,Davies, M. Alfred J,male,24,TITAN-394,10APR1912,southampton,new-york
+3,Doyle, Miss. Elizabeth,female,24,TITAN-395,10APR1912,southampton,new-york
+3,Duquemin, M. Joseph,male,24,TITAN-396,10APR1912,southampton,new-york
+3,Haas, Miss. Aloisia,female,24,TITAN-397,10APR1912,southampton,new-york
+3,Hakkaainen, Mrs. Pekka Pietari (Elin Matilda Dolck),female,24,TITAN-398,10APR1912,southampton,new-york
+3,Lievens, M. Rene Aime,male,24,TITAN-399,10APR1912,southampton,new-york
+3,Madsen, M. Fridtjof Arne,male,24,TITAN-400,10APR1912,southampton,new-york
+3,McNamee, M. Neal,male,24,TITAN-401,10APR1912,southampton,new-york
+3,Mineff, M. Ivan,male,24,TITAN-402,10APR1912,southampton,new-york
+3,Mulvihill, Miss. Betha E,female,24,TITAN-403,10APR1912,southampton,new-york
+3,Petesen, Mr. Marius,male,24,TITAN-404,10APR1912,southampton,new-york
+3,Poknic, Mr. Tome,male,24,TITAN-405,10APR1912,southampton,new-york
+3,Salande, Mr. Karl Johan,male,24,TITAN-406,10APR1912,southampton,new-york
+3,Sandstom, Mrs. Hjalmar (Agnes Charlotta Bengtsson),female,24,TITAN-407,10APR1912,southampton,new-york
+3,Svensson, M. Olof,male,24,TITAN-408,10APR1912,southampton,new-york
+3,Sawye, Mr. Frederick Charles,male,24,TITAN-409,10APR1912,southampton,new-york
+1,Allison, Ms. Hudson J C (Bessie Waldo Daniels),female,25,TITAN-410,10APR1912,southampton,new-york
+1,Binbaum, Mr. Jakob,male,25,TITAN-411,10APR1912,southampton,new-york
+1,Bishop, M. Dickinson H,male,25,TITAN-412,10APR1912,southampton,new-york
+1,Hader, Mr. George Achilles,male,25,TITAN-413,10APR1912,southampton,new-york
+1,Hader, Mrs. George Achilles (Dorothy Annan),female,25,TITAN-414,10APR1912,southampton,new-york
+2,Andew, Mr. Frank Thomas,male,25,TITAN-415,10APR1912,southampton,new-york
+2,Byhl, Mr. Kurt Arnold Gottfrid,male,25,TITAN-416,10APR1912,southampton,new-york
+2,Butle, Mr. Reginald Fenton,male,25,TITAN-417,10APR1912,southampton,new-york
+2,Chisty, Miss. Julie Rachel,female,25,TITAN-418,10APR1912,southampton,new-york
+2,Denbuy, Mr. Herbert,male,25,TITAN-419,10APR1912,southampton,new-york
+2,Laoche, Mr. Joseph Philippe Lemercier,male,25,TITAN-420,10APR1912,southampton,new-york
+2,Sedgwick, M. Charles Frederick Waddington,male,25,TITAN-421,10APR1912,southampton,new-york
+2,Shelley, Ms. William (Imanita Parrish Hall),female,25,TITAN-422,10APR1912,southampton,new-york
+2,Sobey, M. Samuel James Hayden,male,25,TITAN-423,10APR1912,southampton,new-york
+2,Stokes, M. Philip Joseph,male,25,TITAN-424,10APR1912,southampton,new-york
+3,Abelseth, M. Olaus Jorgensen,male,25,TITAN-425,10APR1912,southampton,new-york
+3,Ali, M. William,male,25,TITAN-426,10APR1912,southampton,new-york
+3,Anold-Franchi, Mr. Josef,male,25,TITAN-427,10APR1912,southampton,new-york
+3,Dantcheff, M. Ristiu,male,25,TITAN-428,10APR1912,southampton,new-york
+3,Delalic, M. Redjo,male,25,TITAN-429,10APR1912,southampton,new-york
+3,Gallaghe, Mr. Martin,male,25,TITAN-430,10APR1912,southampton,new-york
+3,Hamer, Mr. Abraham (David Lishin),male,25,TITAN-431,10APR1912,southampton,new-york
+3,Ilmakangas, Miss. Pieta Sofia,female,25,TITAN-432,10APR1912,southampton,new-york
+3,Kekorian, Mr. Neshan,male,25,TITAN-433,10APR1912,southampton,new-york
+3,Lindahl, Miss. Agda Thoilda Viktoria,female,25,TITAN-434,10APR1912,southampton,new-york
+3,Moen, M. Sigurd Hansen,male,25,TITAN-435,10APR1912,southampton,new-york
+3,Peltomaki, M. Nikolai Johannes,male,25,TITAN-436,10APR1912,southampton,new-york
+3,Pesson, Mr. Ernst Ulrik,male,25,TITAN-437,10APR1912,southampton,new-york
+3,Petteson, Mr. Johan Emil,male,25,TITAN-438,10APR1912,southampton,new-york
+3,Saad, M. Khalil,male,25,TITAN-439,10APR1912,southampton,new-york
+3,Sap, M. Julius,male,25,TITAN-440,10APR1912,southampton,new-york
+3,Sutehall, M. Henry Jr,male,25,TITAN-441,10APR1912,southampton,new-york
+3,Tenglin, M. Gunnar Isidor,male,25,TITAN-442,10APR1912,southampton,new-york
+3,Tonquist, Mr. William Henry,male,25,TITAN-443,10APR1912,southampton,new-york
+1,Baber, Miss. Ellen 'Nellie',female,26,TITAN-444,10APR1912,southampton,new-york
+1,Beh, Mr. Karl Howell,male,26,TITAN-445,10APR1912,southampton,new-york
+1,Clak, Mrs. Walter Miller (Virginia McDowell),female,26,TITAN-446,10APR1912,southampton,new-york
+2,Botsfod, Mr. William Hull,male,26,TITAN-447,10APR1912,southampton,new-york
+2,Caldwell, M. Albert Francis,male,26,TITAN-448,10APR1912,southampton,new-york
+2,Gavey, M. Lawrence,male,26,TITAN-449,10APR1912,southampton,new-york
+2,Lahtinen, Ms. William (Anna Sylfven),female,26,TITAN-450,10APR1912,southampton,new-york
+2,Nesson, M. Israel,male,26,TITAN-451,10APR1912,southampton,new-york
+2,Schmidt, M. August,male,26,TITAN-452,10APR1912,southampton,new-york
+2,Wight, Miss. Marion,female,26,TITAN-453,10APR1912,southampton,new-york
+3,Adams, M. John,male,26,TITAN-454,10APR1912,southampton,new-york
+3,Albimona, M. Nassef Cassem,male,26,TITAN-455,10APR1912,southampton,new-york
+3,Alexande, Mr. William,male,26,TITAN-456,10APR1912,southampton,new-york
+3,Andesson, Mr. Johan Samuel,male,26,TITAN-457,10APR1912,southampton,new-york
+3,Angheloff, M. Minko,male,26,TITAN-458,10APR1912,southampton,new-york
+3,Balkic, M. Cerin,male,26,TITAN-459,10APR1912,southampton,new-york
+3,Bengtsson, M. John Viktor,male,26,TITAN-460,10APR1912,southampton,new-york
+3,Bostandyeff, M. Guentcho,male,26,TITAN-461,10APR1912,southampton,new-york
+3,Chonopoulos, Mr. Apostolos,male,26,TITAN-462,10APR1912,southampton,new-york
+3,Dean, M. Bertram Frank,male,26,TITAN-463,10APR1912,southampton,new-york
+3,Foley, M. Joseph,male,26,TITAN-464,10APR1912,southampton,new-york
+3,Hansen, M. Henrik Juul,male,26,TITAN-465,10APR1912,southampton,new-york
+3,Heikkinen, Miss. Laina,female,26,TITAN-466,10APR1912,southampton,new-york
+3,Johansson Palmquist, M. Oskar Leander,male,26,TITAN-467,10APR1912,southampton,new-york
+3,Kink, M. Vincenz,male,26,TITAN-468,10APR1912,southampton,new-york
+3,Kink-Heilmann, Ms. Anton (Luise Heilmann),female,26,TITAN-469,10APR1912,southampton,new-york
+3,Lang, M. Fang,male,26,TITAN-470,10APR1912,southampton,new-york
+3,Lobb, Ms. William Arthur (Cordelia K Stanlick),female,26,TITAN-471,10APR1912,southampton,new-york
+3,Nilsson, Miss. Helmina Josefina,female,26,TITAN-472,10APR1912,southampton,new-york
+3,Peacock, Ms. Benjamin (Edith Nile),female,26,TITAN-473,10APR1912,southampton,new-york
+3,Zakaian, Mr. Mapriededer,male,26.5,TITAN-474,10APR1912,southampton,new-york
+1,Chambes, Mr. Norman Campbell,male,27,TITAN-475,10APR1912,southampton,new-york
+1,Clak, Mr. Walter Miller,male,27,TITAN-476,10APR1912,southampton,new-york
+1,Daniel, M. Robert Williams,male,27,TITAN-477,10APR1912,southampton,new-york
+1,Davidson, Ms. Thornton (Orian Hays),female,27,TITAN-478,10APR1912,southampton,new-york
+1,Douglas, Ms. Frederick Charles (Mary Helene Baxter),female,27,TITAN-479,10APR1912,southampton,new-york
+1,Hassab, M. Hammad,male,27,TITAN-480,10APR1912,southampton,new-york
+1,Widene, Mr. Harry Elkins,male,27,TITAN-481,10APR1912,southampton,new-york
+2,Backen, Mr. James H,male,27,TITAN-482,10APR1912,southampton,new-york
+2,Duan y More, Miss. Asuncion,female,27,TITAN-483,10APR1912,southampton,new-york
+2,Montvila, Rev. Juozas,male,27,TITAN-484,10APR1912,southampton,new-york
+2,Pulbaum, M. Franz,male,27,TITAN-485,10APR1912,southampton,new-york
+2,Shap, Mr. Percival James R,male,27,TITAN-486,10APR1912,southampton,new-york
+2,Toutt, Miss. Edwina Celia 'Winnie',female,27,TITAN-487,10APR1912,southampton,new-york
+2,Tupin, Mrs. William John Robert (Dorothy Ann Wonnacott),female,27,TITAN-488,10APR1912,southampton,new-york
+2,Weisz, M. Leopold,male,27,TITAN-489,10APR1912,southampton,new-york
+3,Andesson, Mr. August Edvard ('Wennerstrom'),male,27,TITAN-490,10APR1912,southampton,new-york
+3,Bary, Miss. Julia,female,27,TITAN-491,10APR1912,southampton,new-york
+3,Co, Mr. Ivan,male,27,TITAN-492,10APR1912,southampton,new-york
+3,Danoff, M. Yoto,male,27,TITAN-493,10APR1912,southampton,new-york
+3,Hedman, M. Oskar Arvid,male,27,TITAN-494,10APR1912,southampton,new-york
+3,Honkanen, Miss. Eliina,female,27,TITAN-495,10APR1912,southampton,new-york
+3,Ilmakangas, Miss. Ida Livija,female,27,TITAN-496,10APR1912,southampton,new-york
+3,Johnson, Ms. Oscar W (Elisabeth Vilhelmina Berg),female,27,TITAN-497,10APR1912,southampton,new-york
+3,Jonsson, M. Nils Hilding,male,27,TITAN-498,10APR1912,southampton,new-york
+3,Lulic, M. Nikola,male,27,TITAN-499,10APR1912,southampton,new-york
+3,Moo, Mrs. (Beila),female,27,TITAN-500,10APR1912,southampton,new-york
+3,Stilic, Mr. Ivan,male,27,TITAN-501,10APR1912,southampton,new-york
+3,Wiz, Mr. Albert,male,27,TITAN-502,10APR1912,southampton,new-york
+3,Yasbeck, M. Antoni,male,27,TITAN-503,10APR1912,southampton,new-york
+3,Zakaian, Mr. Ortin,male,27,TITAN-504,10APR1912,southampton,new-york
+1,Bjonstrom-Steffansson, Mr. Mauritz Hakan,male,28,TITAN-505,10APR1912,southampton,new-york
+1,Carau, Mr. Francisco M,male,28,TITAN-506,10APR1912,southampton,new-york
+1,Fotune, Miss. Ethel Flora,female,28,TITAN-507,10APR1912,southampton,new-york
+1,Meye, Mr. Edgar Joseph,male,28,TITAN-508,10APR1912,southampton,new-york
+1,Ovies y Rodiguez, Mr. Servando,male,28,TITAN-509,10APR1912,southampton,new-york
+1,Slope, Mr. William Thompson,male,28,TITAN-510,10APR1912,southampton,new-york
+2,Abelson, Ms. Samuel (Hannah Wizosky),female,28,TITAN-511,10APR1912,southampton,new-york
+2,Banfield, M. Frederick James,male,28,TITAN-512,10APR1912,southampton,new-york
+2,Beauchamp, M. Henry James,male,28,TITAN-513,10APR1912,southampton,new-york
+2,Clake, Mrs. Charles V (Ada Maria Winfield),female,28,TITAN-514,10APR1912,southampton,new-york
+2,Collande, Mr. Erik Gustaf,male,28,TITAN-515,10APR1912,southampton,new-york
+2,Davis, Miss. May,female,28,TITAN-516,10APR1912,southampton,new-york
+2,Haper, Rev. John,male,28,TITAN-517,10APR1912,southampton,new-york
+2,Noman, Mr. Robert Douglas,male,28,TITAN-518,10APR1912,southampton,new-york
+2,Paker, Mr. Clifford Richard,male,28,TITAN-519,10APR1912,southampton,new-york
+2,Reynaldo, Ms. Encanacion,female,28,TITAN-520,10APR1912,southampton,new-york
+2,Tout, Mrs. William H (Jessie L),female,28,TITAN-521,10APR1912,southampton,new-york
+3,Calsson, Mr. August Sigfrid,male,28,TITAN-522,10APR1912,southampton,new-york
+3,Caver, Mr. Alfred John,male,28,TITAN-523,10APR1912,southampton,new-york
+3,Danbom, Ms. Ernst Gilbert (Anna Sigrid Maria Brogren),female,28,TITAN-524,10APR1912,southampton,new-york
+3,Gustafsson, M. Johan Birger,male,28,TITAN-525,10APR1912,southampton,new-york
+3,Hakkaainen, Mr. Pekka Pietari,male,28,TITAN-526,10APR1912,southampton,new-york
+3,Hendekovic, M. Ignjac,male,28,TITAN-527,10APR1912,southampton,new-york
+3,Heniksson, Miss. Jenny Lovisa,female,28,TITAN-528,10APR1912,southampton,new-york
+3,Holthen, M. Johan Martin,male,28,TITAN-529,10APR1912,southampton,new-york
+3,Ling, M. Lee,male,28,TITAN-530,10APR1912,southampton,new-york
+3,Mionoff, M. Stoytcho,male,28,TITAN-531,10APR1912,southampton,new-york
+3,Niklasson, M. Samuel,male,28,TITAN-532,10APR1912,southampton,new-york
+3,Olsen, M. Henry Margido,male,28,TITAN-533,10APR1912,southampton,new-york
+3,Olsson, M. Nils Johan Goransson,male,28,TITAN-534,10APR1912,southampton,new-york
+3,Petanec, Miss. Matilda,female,28,TITAN-535,10APR1912,southampton,new-york
+3,Vande Walle, M. Nestor Cyriel,male,28,TITAN-536,10APR1912,southampton,new-york
+3,Vanden Steen, M. Leo Peter,male,28,TITAN-537,10APR1912,southampton,new-york
+3,Novel, M. Mansouer,male,28.5,TITAN-538,10APR1912,southampton,new-york
+3,Williams, M. Leslie,male,28.5,TITAN-539,10APR1912,southampton,new-york
+1,Allen, Miss. Elisabeth Walton,female,29,TITAN-540,10APR1912,southampton,new-york
+1,Bid, Miss. Ellen,female,29,TITAN-541,10APR1912,southampton,new-york
+1,Long, M. Milton Clyde,male,29,TITAN-542,10APR1912,southampton,new-york
+1,Peas, Mr. Thomas Clinton,male,29,TITAN-543,10APR1912,southampton,new-york
+2,Chapman, Ms. John Henry (Sara Elizabeth Lawry),female,29,TITAN-544,10APR1912,southampton,new-york
+2,Clake, Mr. Charles Valentine,male,29,TITAN-545,10APR1912,southampton,new-york
+2,Coleidge, Mr. Reginald Charles,male,29,TITAN-546,10APR1912,southampton,new-york
+2,del Calo, Mr. Sebastiano,male,29,TITAN-547,10APR1912,southampton,new-york
+2,Faunthope, Mrs. Lizzie (Elizabeth Anne Wilkinson),female,29,TITAN-548,10APR1912,southampton,new-york
+2,Hold, Ms. Stephen (Annie Margaret Hill),female,29,TITAN-549,10APR1912,southampton,new-york
+2,Nye, Ms. (Elizabeth Ramell),female,29,TITAN-550,10APR1912,southampton,new-york
+2,Pallas y Castello, M. Emilio,male,29,TITAN-551,10APR1912,southampton,new-york
+2,Tupin, Mr. William John Robert,male,29,TITAN-552,10APR1912,southampton,new-york
+2,Weisz, Ms. Leopold (Mathilde Francoise Pede),female,29,TITAN-553,10APR1912,southampton,new-york
+2,Wells, Ms. Arthur Henry ('Addie' Dart Trevaskis),female,29,TITAN-554,10APR1912,southampton,new-york
+3,Baund, Mr. Lewis Richard,male,29,TITAN-555,10APR1912,southampton,new-york
+3,Chistmann, Mr. Emil,male,29,TITAN-556,10APR1912,southampton,new-york
+3,Daly, M. Eugene Patrick,male,29,TITAN-557,10APR1912,southampton,new-york
+3,Jalsevac, M. Ivan,male,29,TITAN-558,10APR1912,southampton,new-york
+3,Johansson, M. Nils,male,29,TITAN-559,10APR1912,southampton,new-york
+3,Kink-Heilmann, M. Anton,male,29,TITAN-560,10APR1912,southampton,new-york
+3,Lasson, Mr. August Viktor,male,29,TITAN-561,10APR1912,southampton,new-york
+3,Lasson, Mr. Bengt Edvin,male,29,TITAN-562,10APR1912,southampton,new-york
+3,Makinen, M. Kalle Edvard,male,29,TITAN-563,10APR1912,southampton,new-york
+3,Nieminen, Miss. Manta Josefina,female,29,TITAN-564,10APR1912,southampton,new-york
+3,Palsson, Ms. Nils (Alma Cornelia Berglund),female,29,TITAN-565,10APR1912,southampton,new-york
+3,Sheelinck, Mr. Jan Baptist,male,29,TITAN-566,10APR1912,southampton,new-york
+3,Stom, Mrs. Wilhelm (Elna Matilda Persson),female,29,TITAN-567,10APR1912,southampton,new-york
+3,Touma, Ms. Darwis (Hanne Youssef Razi),female,29,TITAN-568,10APR1912,southampton,new-york
+3,Zimmeman, Mr. Leo,male,29,TITAN-569,10APR1912,southampton,new-york
+1,Allison, M. Hudson Joshua Creighton,male,30,TITAN-570,10APR1912,southampton,new-york
+1,Baumann, M. John D,male,30,TITAN-571,10APR1912,southampton,new-york
+1,Bonnell, Miss. Caoline,female,30,TITAN-572,10APR1912,southampton,new-york
+1,Badley, Mr. George ('George Arthur Brayton'),male,30,TITAN-573,10APR1912,southampton,new-york
+1,Bewe, Dr. Arthur Jackson,male,30,TITAN-574,10APR1912,southampton,new-york
+1,Cains, Mr. Alexander,male,30,TITAN-575,10APR1912,southampton,new-york
+1,Cassebee, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick),female,30,TITAN-576,10APR1912,southampton,new-york
+1,Chery, Miss. Gladys,female,30,TITAN-577,10APR1912,southampton,new-york
+1,Chibnall, Ms. (Edith Martha Bowerman),female,30,TITAN-578,10APR1912,southampton,new-york
+1,Chisholm, M. Roderick Robert Crispin,male,30,TITAN-579,10APR1912,southampton,new-york
+1,Cliffod, Mr. George Quincy,male,30,TITAN-580,10APR1912,southampton,new-york
+1,Cafton, Mr. John Bertram,male,30,TITAN-581,10APR1912,southampton,new-york
+1,Fathing, Mr. John,male,30,TITAN-582,10APR1912,southampton,new-york
+1,Flegenheim, Ms. Alfred (Antoinette),female,30,TITAN-583,10APR1912,southampton,new-york
+1,Fleming, Miss. Magaret,female,30,TITAN-584,10APR1912,southampton,new-york
+1,Foeman, Mr. Benjamin Laventall,male,30,TITAN-585,10APR1912,southampton,new-york
+1,Fancatelli, Miss. Laura Mabel,female,30,TITAN-586,10APR1912,southampton,new-york
+1,Fanklin, Mr. Thomas Parham,male,30,TITAN-587,10APR1912,southampton,new-york
+1,Fauenthal, Mrs. Henry William (Clara Heinsheimer),female,30,TITAN-588,10APR1912,southampton,new-york
+1,Fy, Mr. Richard,male,30,TITAN-589,10APR1912,southampton,new-york
+1,Goldenbeg, Mrs. Samuel L (Edwiga Grabowska),female,30,TITAN-590,10APR1912,southampton,new-york
+1,Harington, Mr. Charles H,male,30,TITAN-591,10APR1912,southampton,new-york
+1,Hawksfod, Mr. Walter James,male,30,TITAN-592,10APR1912,southampton,new-york
+1,Hilliad, Mr. Herbert Henry,male,30,TITAN-593,10APR1912,southampton,new-york
+1,Hoyt, M. William Fisher,male,30,TITAN-594,10APR1912,southampton,new-york
+1,Kenyon, Ms. Frederick R (Marion),female,30,TITAN-595,10APR1912,southampton,new-york
+1,Klabe, Mr. Herman,male,30,TITAN-596,10APR1912,southampton,new-york
+1,LeRoy, Miss. Betha,female,30,TITAN-597,10APR1912,southampton,new-york
+1,Lewy, M. Ervin G,male,30,TITAN-598,10APR1912,southampton,new-york
+1,Loing, Mr. Joseph Holland,male,30,TITAN-599,10APR1912,southampton,new-york
+1,Maguie, Mr. John Edward,male,30,TITAN-600,10APR1912,southampton,new-york
+1,Maechal, Mr. Pierre,male,30,TITAN-601,10APR1912,southampton,new-york
+1,Meye, Mrs. Edgar Joseph (Leila Saks),female,30,TITAN-602,10APR1912,southampton,new-york
+1,Mock, M. Philipp Edmund,male,30,TITAN-603,10APR1912,southampton,new-york
+1,Omont, M. Alfred Fernand,male,30,TITAN-604,10APR1912,southampton,new-york
+1,Par, Mr. William Henry Marsh,male,30,TITAN-605,10APR1912,southampton,new-york
+1,Pereault, Miss. Anne,female,30,TITAN-606,10APR1912,southampton,new-york
+1,Rheims, M. George Alexander Lucien,male,30,TITAN-607,10APR1912,southampton,new-york
+1,Robbins, M. Victor,male,30,TITAN-608,10APR1912,southampton,new-york
+1,Rood, M. Hugh Roscoe,male,30,TITAN-609,10APR1912,southampton,new-york
+1,Saalfeld, M. Adolphe,male,30,TITAN-610,10APR1912,southampton,new-york
+1,Salomon, M. Abraham L,male,30,TITAN-611,10APR1912,southampton,new-york
+1,Seepeca, Miss. Augusta,female,30,TITAN-612,10APR1912,southampton,new-york
+1,Smith, M. Richard William,male,30,TITAN-613,10APR1912,southampton,new-york
+1,Spence, Mrs. William Augustus (Marie Eugenie),female,30,TITAN-614,10APR1912,southampton,new-york
+1,Stewat, Mr. Albert A,male,30,TITAN-615,10APR1912,southampton,new-york
+1,Taylo, Mrs. Elmer Zebley (Juliet Cummins Wright),female,30,TITAN-616,10APR1912,southampton,new-york
+1,Thone, Mrs. Gertrude Maybelle,female,30,TITAN-617,10APR1912,southampton,new-york
+1,Williams-Lambet, Mr. Fletcher Fellows,male,30,TITAN-618,10APR1912,southampton,new-york
+1,Woolne, Mr. Hugh,male,30,TITAN-619,10APR1912,southampton,new-york
+2,Abelson, M. Samuel,male,30,TITAN-620,10APR1912,southampton,new-york
+2,Aldwoth, Mr. Charles Augustus,male,30,TITAN-621,10APR1912,southampton,new-york
+2,Campbell, M. William,male,30,TITAN-622,10APR1912,southampton,new-york
+2,Cobett, Mrs. Walter H (Irene Colvin),female,30,TITAN-623,10APR1912,southampton,new-york
+2,Coey, Mrs. Percy C (Mary Phyllis Elizabeth Miller),female,30,TITAN-624,10APR1912,southampton,new-york
+2,Cunningham, M. Alfred Fleming,male,30,TITAN-625,10APR1912,southampton,new-york
+2,Duan y More, Miss. Florentina,female,30,TITAN-626,10APR1912,southampton,new-york
+2,Fost, Mr. Anthony Wood 'Archie',male,30,TITAN-627,10APR1912,southampton,new-york
+2,Givad, Mr. Hans Kristensen,male,30,TITAN-628,10APR1912,southampton,new-york
+2,Hale, M. Reginald,male,30,TITAN-629,10APR1912,southampton,new-york
+2,Haris, Mr. Walter,male,30,TITAN-630,10APR1912,southampton,new-york
+2,Keane, Miss. Noa A,female,30,TITAN-631,10APR1912,southampton,new-york
+2,Knight, M. Robert J,male,30,TITAN-632,10APR1912,southampton,new-york
+2,Lahtinen, Rev. William,male,30,TITAN-633,10APR1912,southampton,new-york
+2,Lamb, M. John Joseph,male,30,TITAN-634,10APR1912,southampton,new-york
+2,Leitch, Miss. Jessie Wills,female,30,TITAN-635,10APR1912,southampton,new-york
+2,Malachad, Mr. Noel,male,30,TITAN-636,10APR1912,southampton,new-york
+2,Mangiavacchi, M. Serafino Emilio,male,30,TITAN-637,10APR1912,southampton,new-york
+2,Matthews, M. William John,male,30,TITAN-638,10APR1912,southampton,new-york
+2,McCie, Mr. James Matthew,male,30,TITAN-639,10APR1912,southampton,new-york
+2,Pado y Manent, Mr. Julian,male,30,TITAN-640,10APR1912,southampton,new-york
+2,Pakes, Mr. Francis 'Frank',male,30,TITAN-641,10APR1912,southampton,new-york
+2,Penot, Mr. Rene,male,30,TITAN-642,10APR1912,southampton,new-york
+2,Potaluppi, Mr. Emilio Ilario Giuseppe,male,30,TITAN-643,10APR1912,southampton,new-york
+2,Renouf, Ms. Peter Henry (Lillian Jefferys),female,30,TITAN-644,10APR1912,southampton,new-york
+2,Sinkkonen, Miss. Anna,female,30,TITAN-645,10APR1912,southampton,new-york
+2,Slayte, Miss. Hilda Mary,female,30,TITAN-646,10APR1912,southampton,new-york
+2,Wae, Mr. John James,male,30,TITAN-647,10APR1912,southampton,new-york
+2,Watson, M. Ennis Hastings,male,30,TITAN-648,10APR1912,southampton,new-york
+2,Wheele, Mr. Edwin 'Frederick',male,30,TITAN-649,10APR1912,southampton,new-york
+2,Williams, M. Charles Eugene,male,30,TITAN-650,10APR1912,southampton,new-york
+3,Adahl, M. Mauritz Nils Martin,male,30,TITAN-651,10APR1912,southampton,new-york
+3,Attalah, M. Sleiman,male,30,TITAN-652,10APR1912,southampton,new-york
+3,Betos, Master. Seman,male,30,TITAN-653,10APR1912,southampton,new-york
+3,Boulos, M. Hanna,male,30,TITAN-654,10APR1912,southampton,new-york
+3,Boulos, Ms. Joseph (Sultana),female,30,TITAN-655,10APR1912,southampton,new-york
+3,Bouke, Miss. Mary,female,30,TITAN-656,10APR1912,southampton,new-york
+3,Cacic, Miss. Maija,female,30,TITAN-657,10APR1912,southampton,new-york
+3,Caam, Mr. Joseph,male,30,TITAN-658,10APR1912,southampton,new-york
+3,Caam, Mrs. Joseph (Maria Elias),female,30,TITAN-659,10APR1912,southampton,new-york
+3,Connolly, Miss. Kate,female,30,TITAN-660,10APR1912,southampton,new-york
+3,Con, Mr. Harry,male,30,TITAN-661,10APR1912,southampton,new-york
+3,Daly, Miss. Magaret Marcella 'Maggie',female,30,TITAN-662,10APR1912,southampton,new-york
+3,Davison, M. Thomas Henry,male,30,TITAN-663,10APR1912,southampton,new-york
+3,Davison, Ms. Thomas Henry (Mary E Finck),female,30,TITAN-664,10APR1912,southampton,new-york
+3,de Mulde, Mr. Theodore,male,30,TITAN-665,10APR1912,southampton,new-york
+3,Demeti, Mr. Marinko,male,30,TITAN-666,10APR1912,southampton,new-york
+3,Denkoff, M. Mitto,male,30,TITAN-667,10APR1912,southampton,new-york
+3,Dohar, Mr. Tannous,male,30,TITAN-668,10APR1912,southampton,new-york
+3,Dowdell, Miss. Elizabeth,female,30,TITAN-669,10APR1912,southampton,new-york
+3,Elias, M. Dibo,male,30,TITAN-670,10APR1912,southampton,new-york
+3,Emi, Mr. Farred Chehab,male,30,TITAN-671,10APR1912,southampton,new-york
+3,Finoli, M. Luigi,male,30,TITAN-672,10APR1912,southampton,new-york
+3,Fleming, Miss. Honoa,female,30,TITAN-673,10APR1912,southampton,new-york
+3,Flynn, M. James,male,30,TITAN-674,10APR1912,southampton,new-york
+3,Flynn, M. John,male,30,TITAN-675,10APR1912,southampton,new-york
+3,Foley, M. William,male,30,TITAN-676,10APR1912,southampton,new-york
+3,Foo, M. Choong,male,30,TITAN-677,10APR1912,southampton,new-york
+3,Fod, Mr. Arthur,male,30,TITAN-678,10APR1912,southampton,new-york
+3,Fox, M. Patrick,male,30,TITAN-679,10APR1912,southampton,new-york
+3,Fanklin, Mr. Charles (Charles Fardon),male,30,TITAN-680,10APR1912,southampton,new-york
+3,Gafirth, Mr. John,male,30,TITAN-681,10APR1912,southampton,new-york
+3,Gheogheff, Mr. Stanio,male,30,TITAN-682,10APR1912,southampton,new-york
+3,Glynn, Miss. May Agatha,female,30,TITAN-683,10APR1912,southampton,new-york
+3,Guest, M. Robert,male,30,TITAN-684,10APR1912,southampton,new-york
+3,Hagland, M. Ingvald Olai Olsen,male,30,TITAN-685,10APR1912,southampton,new-york
+3,Hagland, M. Konrad Mathias Reiersen,male,30,TITAN-686,10APR1912,southampton,new-york
+3,Haknett, Miss. Alice Phoebe,female,30,TITAN-687,10APR1912,southampton,new-york
+3,Hat, Mr. Henry,male,30,TITAN-688,10APR1912,southampton,new-york
+3,Healy, Miss. Hanoa 'Nora',female,30,TITAN-689,10APR1912,southampton,new-york
+3,Hee, M. Ling,male,30,TITAN-690,10APR1912,southampton,new-york
+3,Heny, Miss. Delia,female,30,TITAN-691,10APR1912,southampton,new-york
+3,Hogan, Mr. John,male,30,TITAN-692,10APR1912,southampton,new-york
+3,Howad, Miss. May Elizabeth,female,30,TITAN-693,10APR1912,southampton,new-york
+3,Hyman, M. Abraham,male,30,TITAN-694,10APR1912,southampton,new-york
+3,Ibahim Shawah, Mr. Yousseff,male,30,TITAN-695,10APR1912,southampton,new-york
+3,Kaaic, Mr. Milan,male,30,TITAN-696,10APR1912,southampton,new-york
+3,Lindell, Ms. Edvard Bengtsson (Elin Gerda Persson),female,30,TITAN-697,10APR1912,southampton,new-york
+3,Lobb, M. William Arthur,male,30,TITAN-698,10APR1912,southampton,new-york
+3,Someton, Mr. Francis William,male,30,TITAN-699,10APR1912,southampton,new-york
+3,Van Impe, Ms. Jean Baptiste (Rosalie Paula Govaert),female,30,TITAN-700,10APR1912,southampton,new-york
+3,Mangan, Miss. May,female,30.5,TITAN-701,10APR1912,southampton,new-york
+3,Tomlin, M. Ernest Portage,male,30.5,TITAN-702,10APR1912,southampton,new-york
+1,Davidson, M. Thornton,male,31,TITAN-703,10APR1912,southampton,new-york
+1,Dick, M. Albert Adrian,male,31,TITAN-704,10APR1912,southampton,new-york
+1,Newell, Miss. Madeleine,female,31,TITAN-705,10APR1912,southampton,new-york
+1,Roebling, M. Washington Augustus II,male,31,TITAN-706,10APR1912,southampton,new-york
+1,Tucke, Mr. Gilbert Milligan Jr,male,31,TITAN-707,10APR1912,southampton,new-york
+1,Wick, Miss. May Natalie,female,31,TITAN-708,10APR1912,southampton,new-york
+1,Wilson, Miss. Helen Alice,female,31,TITAN-709,10APR1912,southampton,new-york
+2,Collye, Mr. Harvey,male,31,TITAN-710,10APR1912,southampton,new-york
+2,Collye, Mrs. Harvey (Charlotte Annie Tate),female,31,TITAN-711,10APR1912,southampton,new-york
+2,Kvillne, Mr. Johan Henrik Johannesson,male,31,TITAN-712,10APR1912,southampton,new-york
+2,Mallet, M. Albert,male,31,TITAN-713,10APR1912,southampton,new-york
+2,Walcoft, Miss. Nellie,female,31,TITAN-714,10APR1912,southampton,new-york
+2,Wae, Mrs. John James (Florence Louise Long),female,31,TITAN-715,10APR1912,southampton,new-york
+2,Wilhelms, M. Charles,male,31,TITAN-716,10APR1912,southampton,new-york
+3,Conlon, M. Thomas Henry,male,31,TITAN-717,10APR1912,southampton,new-york
+3,Connaghton, M. Michael,male,31,TITAN-718,10APR1912,southampton,new-york
+3,Goldsmith, Ms. Frank John (Emily Alice Brown),female,31,TITAN-719,10APR1912,southampton,new-york
+3,Johansson, M. Karl Johan,male,31,TITAN-720,10APR1912,southampton,new-york
+3,Olsson, Miss. Elina,female,31,TITAN-721,10APR1912,southampton,new-york
+3,Osman, Ms. Mara,female,31,TITAN-722,10APR1912,southampton,new-york
+3,Standen, Mr. Juho,male,31,TITAN-723,10APR1912,southampton,new-york
+3,Vande Planke, Mr. Julius,male,31,TITAN-724,10APR1912,southampton,new-york
+3,Vande Planke, Mrs. Julius (Emelia Maria Vandemoortele),female,31,TITAN-725,10APR1912,southampton,new-york
+1,Bazzani, Miss. Albina,female,32,TITAN-726,10APR1912,southampton,new-york
+1,Keeping, M. Edwin,male,32,TITAN-727,10APR1912,southampton,new-york
+1,Stahelin-Maeglin, D. Max,male,32,TITAN-728,10APR1912,southampton,new-york
+2,Beane, M. Edward,male,32,TITAN-729,10APR1912,southampton,new-york
+2,de Bito, Mr. Jose Joaquim,male,32,TITAN-730,10APR1912,southampton,new-york
+2,Hickman, M. Lewis,male,32,TITAN-731,10APR1912,southampton,new-york
+2,Jenkin, M. Stephen Curnow,male,32,TITAN-732,10APR1912,southampton,new-york
+2,McCae, Mr. Arthur Gordon,male,32,TITAN-733,10APR1912,southampton,new-york
+2,Nasse, Mr. Nicholas,male,32,TITAN-734,10APR1912,southampton,new-york
+2,Pinsky, Ms. (Rosa),female,32,TITAN-735,10APR1912,southampton,new-york
+2,Webbe, Miss. Susan,female,32,TITAN-736,10APR1912,southampton,new-york
+3,Andesen, Mr. Albert Karvin,male,32,TITAN-737,10APR1912,southampton,new-york
+3,Backstom, Mr. Karl Alfred,male,32,TITAN-738,10APR1912,southampton,new-york
+3,Bing, M. Lee,male,32,TITAN-739,10APR1912,southampton,new-york
+3,Bouke, Mrs. John (Catherine),female,32,TITAN-740,10APR1912,southampton,new-york
+3,Chip, M. Chang,male,32,TITAN-741,10APR1912,southampton,new-york
+3,Dooley, M. Patrick,male,32,TITAN-742,10APR1912,southampton,new-york
+3,Gonnestad, Mr. Daniel Danielsen,male,32,TITAN-743,10APR1912,southampton,new-york
+3,Jonsson, M. Carl,male,32,TITAN-744,10APR1912,southampton,new-york
+3,Jussila, M. Eiriik,male,32,TITAN-745,10APR1912,southampton,new-york
+3,Leinonen, M. Antti Gustaf,male,32,TITAN-746,10APR1912,southampton,new-york
+3,Lundstom, Mr. Thure Edvin,male,32,TITAN-747,10APR1912,southampton,new-york
+3,Olsson, M. Oscar Wilhelm,male,32,TITAN-748,10APR1912,southampton,new-york
+3,Pavlovic, M. Stefo,male,32,TITAN-749,10APR1912,southampton,new-york
+3,Pickad, Mr. Berk (Berk Trembisky),male,32,TITAN-750,10APR1912,southampton,new-york
+3,Spinne, Mr. Henry John,male,32,TITAN-751,10APR1912,southampton,new-york
+3,Tikkanen, M. Juho,male,32,TITAN-752,10APR1912,southampton,new-york
+3,Wenzel, M. Linhart,male,32.5,TITAN-753,10APR1912,southampton,new-york
+1,Calsson, Mr. Frans Olof,male,33,TITAN-754,10APR1912,southampton,new-york
+1,Chambes, Mrs. Norman Campbell (Bertha Griggs),female,33,TITAN-755,10APR1912,southampton,new-york
+1,Daniels, Miss. Saah,female,33,TITAN-756,10APR1912,southampton,new-york
+1,Minahan, Miss. Daisy E,female,33,TITAN-757,10APR1912,southampton,new-york
+1,Rosenbaum, Miss. Edith Louise,female,33,TITAN-758,10APR1912,southampton,new-york
+1,Rothes, the Countess. of (Lucy Noel Matha Dyer-Edwards),female,33,TITAN-759,10APR1912,southampton,new-york
+1,Rowe, M. Alfred G,male,33,TITAN-760,10APR1912,southampton,new-york
+2,Hunt, M. George Henry,male,33,TITAN-761,10APR1912,southampton,new-york
+2,Quick, Ms. Frederick Charles (Jane Richards),female,33,TITAN-762,10APR1912,southampton,new-york
+2,West, Ms. Edwy Arthur (Ada Mary Worth),female,33,TITAN-763,10APR1912,southampton,new-york
+3,Backstom, Mrs. Karl Alfred (Maria Mathilda Gustafsson),female,33,TITAN-764,10APR1912,southampton,new-york
+3,Dean, Ms. Bertram (Eva Georgetta Light),female,33,TITAN-765,10APR1912,southampton,new-york
+3,Dazenoic, Mr. Jozef,male,33,TITAN-766,10APR1912,southampton,new-york
+3,Goldsmith, M. Frank John,male,33,TITAN-767,10APR1912,southampton,new-york
+3,Johansson, M. Gustaf Joel,male,33,TITAN-768,10APR1912,southampton,new-york
+3,Johnson, M. Malkolm Joackim,male,33,TITAN-769,10APR1912,southampton,new-york
+3,Kalsson, Mr. Julius Konrad Eugen,male,33,TITAN-770,10APR1912,southampton,new-york
+3,Makun, Mr. Johann,male,33,TITAN-771,10APR1912,southampton,new-york
+3,Nancarow, Mr. William Henry,male,33,TITAN-772,10APR1912,southampton,new-york
+3,Stankovic, M. Ivan,male,33,TITAN-773,10APR1912,southampton,new-york
+3,Vande Velde, M. Johannes Joseph,male,33,TITAN-774,10APR1912,southampton,new-york
+1,Sewad, Mr. Frederic Kimber,male,34,TITAN-775,10APR1912,southampton,new-york
+2,Angle, M. William A,male,34,TITAN-776,10APR1912,southampton,new-york
+2,Beesley, M. Lawrence,male,34,TITAN-777,10APR1912,southampton,new-york
+2,Doling, Ms. John T (Ada Julia Bone),female,34,TITAN-778,10APR1912,southampton,new-york
+2,Dew, Mrs. James Vivian (Lulu Thorne Christian),female,34,TITAN-779,10APR1912,southampton,new-york
+2,Gale, M. Shadrach,male,34,TITAN-780,10APR1912,southampton,new-york
+2,Gaside, Miss. Ethel,female,34,TITAN-781,10APR1912,southampton,new-york
+2,Gillespie, M. William Henry,male,34,TITAN-782,10APR1912,southampton,new-york
+2,Kanto, Mr. Sinai,male,34,TITAN-783,10APR1912,southampton,new-york
+2,Lemoe, Mrs. (Amelia Milley),female,34,TITAN-784,10APR1912,southampton,new-york
+2,Ponesell, M. Martin,male,34,TITAN-785,10APR1912,southampton,new-york
+2,Renouf, M. Peter Henry,male,34,TITAN-786,10APR1912,southampton,new-york
+3,Danbom, M. Ernst Gilbert,male,34,TITAN-787,10APR1912,southampton,new-york
+3,Johanson, M. Jakob Alfred,male,34,TITAN-788,10APR1912,southampton,new-york
+3,Moley, Mr. William,male,34,TITAN-789,10APR1912,southampton,new-york
+3,Theobald, M. Thomas Leonard,male,34,TITAN-790,10APR1912,southampton,new-york
+3,Kelly, M. James,male,34.5,TITAN-791,10APR1912,southampton,new-york
+3,Lembeopolous, Mr. Peter L,male,34.5,TITAN-792,10APR1912,southampton,new-york
+1,Bissette, Miss. Amelia,female,35,TITAN-793,10APR1912,southampton,new-york
+1,Futelle, Mrs. Jacques Heath (Lily May Peel),female,35,TITAN-794,10APR1912,southampton,new-york
+1,Geige, Miss. Amalie,female,35,TITAN-795,10APR1912,southampton,new-york
+1,Haris, Mrs. Henry Birkhardt (Irene Wallach),female,35,TITAN-796,10APR1912,southampton,new-york
+1,Holveson, Mrs. Alexander Oskar (Mary Aline Towner),female,35,TITAN-797,10APR1912,southampton,new-york
+1,Home, Mr. Harry ('Mr E Haven'),male,35,TITAN-798,10APR1912,southampton,new-york
+1,Hoyt, Ms. Frederick Maxfield (Jane Anne Forby),female,35,TITAN-799,10APR1912,southampton,new-york
+1,Lesuer, Mr. Gustave J,male,35,TITAN-800,10APR1912,southampton,new-york
+1,Schabet, Mrs. Paul (Emma Mock),female,35,TITAN-801,10APR1912,southampton,new-york
+1,Silvethorne, Mr. Spencer Victor,male,35,TITAN-802,10APR1912,southampton,new-york
+1,Wad, Miss. Anna,female,35,TITAN-803,10APR1912,southampton,new-york
+2,Cameon, Miss. Clear Annie,female,35,TITAN-804,10APR1912,southampton,new-york
+2,Fynney, M. Joseph J,male,35,TITAN-805,10APR1912,southampton,new-york
+2,Keane, M. Daniel,male,35,TITAN-806,10APR1912,southampton,new-york
+2,Slemen, M. Richard James,male,35,TITAN-807,10APR1912,southampton,new-york
+3,Abbott, Ms. Stanton (Rosa Hunt),female,35,TITAN-808,10APR1912,southampton,new-york
+3,Allen, M. William Henry,male,35,TITAN-809,10APR1912,southampton,new-york
+3,Asim, M. Adola,male,35,TITAN-810,10APR1912,southampton,new-york
+3,Bocklebank, Mr. William Alfred,male,35,TITAN-811,10APR1912,southampton,new-york
+3,Co, Mr. Bartol,male,35,TITAN-812,10APR1912,southampton,new-york
+3,Makoff, Mr. Marin,male,35,TITAN-813,10APR1912,southampton,new-york
+3,McGowan, Miss. Katheine,female,35,TITAN-814,10APR1912,southampton,new-york
+3,Rintamaki, M. Matti,male,35,TITAN-815,10APR1912,southampton,new-york
+1,Beattie, M. Thomson,male,36,TITAN-816,10APR1912,southampton,new-york
+1,Cadeza, Mr. Thomas Drake Martinez,male,36,TITAN-817,10APR1912,southampton,new-york
+1,Cater, Mr. William Ernest,male,36,TITAN-818,10APR1912,southampton,new-york
+1,Cater, Mrs. William Ernest (Lucile Polk),female,36,TITAN-819,10APR1912,southampton,new-york
+1,Cavendish, M. Tyrell William,male,36,TITAN-820,10APR1912,southampton,new-york
+1,Chaudanson, Miss. Victoine,female,36,TITAN-821,10APR1912,southampton,new-york
+1,Cosby, Miss. Harriet R,female,36,TITAN-822,10APR1912,southampton,new-york
+1,Evans, Miss. Edith Cose,female,36,TITAN-823,10APR1912,southampton,new-york
+1,Flynn, M. John Irwin ('Irving'),male,36,TITAN-824,10APR1912,southampton,new-york
+1,McGough, M. James Robert,male,36,TITAN-825,10APR1912,southampton,new-york
+1,Ross, M. John Hugo,male,36,TITAN-826,10APR1912,southampton,new-york
+1,Young, Miss. Maie Grice,female,36,TITAN-827,10APR1912,southampton,new-york
+2,Angle, Ms. William A (Florence 'Mary' Agnes Hughes),female,36,TITAN-828,10APR1912,southampton,new-york
+2,Ball, Ms. (Ada E Hall),female,36,TITAN-829,10APR1912,southampton,new-york
+2,Becke, Mrs. Allen Oliver (Nellie E Baumgardner),female,36,TITAN-830,10APR1912,southampton,new-york
+2,Buss, Miss. Kate,female,36,TITAN-831,10APR1912,southampton,new-york
+2,Fox, M. Stanley Hubert,male,36,TITAN-832,10APR1912,southampton,new-york
+2,Hocking, M. Samuel James Metcalfe,male,36,TITAN-833,10APR1912,southampton,new-york
+2,Levy, M. Rene Jacques,male,36,TITAN-834,10APR1912,southampton,new-york
+2,Navatil, Mr. Michel ('Louis M Hoffman'),male,36,TITAN-835,10APR1912,southampton,new-york
+2,Reeves, M. David,male,36,TITAN-836,10APR1912,southampton,new-york
+2,West, M. Edwy Arthur,male,36,TITAN-837,10APR1912,southampton,new-york
+3,Coleff, M. Peju,male,36,TITAN-838,10APR1912,southampton,new-york
+3,Coutts, Ms. William (Winnie 'Minnie' Treanor),female,36,TITAN-839,10APR1912,southampton,new-york
+3,de Messemaeke, Mr. Guillaume Joseph,male,36,TITAN-840,10APR1912,southampton,new-york
+3,de Messemaeke, Mrs. Guillaume Joseph (Emma),female,36,TITAN-841,10APR1912,southampton,new-york
+3,Dennis, M. William,male,36,TITAN-842,10APR1912,southampton,new-york
+3,Klasen, Ms. (Hulda Kristina Eugenia Lofqvist),female,36,TITAN-843,10APR1912,southampton,new-york
+3,Leonad, Mr. Lionel,male,36,TITAN-844,10APR1912,southampton,new-york
+3,Lindell, M. Edvard Bengtsson,male,36,TITAN-845,10APR1912,southampton,new-york
+3,Tucin, Mr. Stjepan,male,36,TITAN-846,10APR1912,southampton,new-york
+3,Van Impe, M. Jean Baptiste,male,36,TITAN-847,10APR1912,southampton,new-york
+3,Wittevongel, Mr. Camille,male,36,TITAN-848,10APR1912,southampton,new-york
+1,Beckwith, M. Richard Leonard,male,37,TITAN-849,10APR1912,southampton,new-york
+1,Compton, M. Alexander Taylor Jr,male,37,TITAN-850,10APR1912,southampton,new-york
+1,Futelle, Mr. Jacques Heath,male,37,TITAN-851,10APR1912,southampton,new-york
+1,Minahan, Ms. William Edward (Lillian E Thorpe),female,37,TITAN-852,10APR1912,southampton,new-york
+1,Natsch, M. Charles H,male,37,TITAN-853,10APR1912,southampton,new-york
+2,Chapman, M. John Henry,male,37,TITAN-854,10APR1912,southampton,new-york
+3,Car, Miss. Jeannie,female,37,TITAN-855,10APR1912,southampton,new-york
+3,Gustafsson, M. Anders Vilhelm,male,37,TITAN-856,10APR1912,southampton,new-york
+3,Laitinen, Miss. Kistina Sofia,female,37,TITAN-857,10APR1912,southampton,new-york
+1,Cumings, Ms. John Bradley (Florence Briggs Thayer),female,38,TITAN-858,10APR1912,southampton,new-york
+1,Endes, Miss. Caroline Louise,female,38,TITAN-859,10APR1912,southampton,new-york
+1,Gaham, Mr. George Edward,male,38,TITAN-860,10APR1912,southampton,new-york
+1,Hoyt, M. Frederick Maxfield,male,38,TITAN-861,10APR1912,southampton,new-york
+1,Icad, Miss. Amelie,female,38,TITAN-862,10APR1912,southampton,new-york
+1,Reuchlin, Jonkhee. John George,male,38,TITAN-863,10APR1912,southampton,new-york
+2,Funk, Miss. Annie Clemme,female,38,TITAN-864,10APR1912,southampton,new-york
+2,Gale, M. Harry,male,38,TITAN-865,10APR1912,southampton,new-york
+3,Andesson, Miss. Ida Augusta Margareta,female,38,TITAN-866,10APR1912,southampton,new-york
+3,Asplund, Ms. Carl Oscar (Selma Augusta Emilia Johansson),female,38,TITAN-867,10APR1912,southampton,new-york
+3,Cacic, M. Luka,male,38,TITAN-868,10APR1912,southampton,new-york
+3,Goncalves, M. Manuel Estanslas,male,38,TITAN-869,10APR1912,southampton,new-york
+3,Rekic, M. Tido,male,38,TITAN-870,10APR1912,southampton,new-york
+3,Whabee, Ms. George Joseph (Shawneene Abi-Saab),female,38,TITAN-871,10APR1912,southampton,new-york
+3,Saethe, Mr. Simon Sivertsen,male,38.5,TITAN-872,10APR1912,southampton,new-york
+1,Andews, Mr. Thomas Jr,male,39,TITAN-873,10APR1912,southampton,new-york
+1,Compton, Miss. Saa Rebecca,female,39,TITAN-874,10APR1912,southampton,new-york
+1,Cumings, M. John Bradley,male,39,TITAN-875,10APR1912,southampton,new-york
+1,Dulles, M. William Crothers,male,39,TITAN-876,10APR1912,southampton,new-york
+1,Keuchen, Miss. Emilie,female,39,TITAN-877,10APR1912,southampton,new-york
+1,Oliva y Ocana, Dona. Femina,female,39,TITAN-878,10APR1912,southampton,new-york
+1,Silvey, Ms. William Baird (Alice Munger),female,39,TITAN-879,10APR1912,southampton,new-york
+1,Taussig, Ms. Emil (Tillie Mandelbaum),female,39,TITAN-880,10APR1912,southampton,new-york
+1,Thaye, Mrs. John Borland (Marian Longstreth Morris),female,39,TITAN-881,10APR1912,southampton,new-york
+2,Meye, Mr. August,male,39,TITAN-882,10APR1912,southampton,new-york
+2,Moley, Mr. Henry Samuel ('Mr Henry Marshall'),male,39,TITAN-883,10APR1912,southampton,new-york
+2,Otte, Mr. Richard,male,39,TITAN-884,10APR1912,southampton,new-york
+3,Andesson, Mr. Anders Johan,male,39,TITAN-885,10APR1912,southampton,new-york
+3,Andesson, Mrs. Anders Johan (Alfrida Konstantia Brogren),female,39,TITAN-886,10APR1912,southampton,new-york
+3,Elias, M. Joseph,male,39,TITAN-887,10APR1912,southampton,new-york
+3,Kaun, Mr. Franz,male,39,TITAN-888,10APR1912,southampton,new-york
+3,Leste, Mr. James,male,39,TITAN-889,10APR1912,southampton,new-york
+3,Niskanen, M. Juha,male,39,TITAN-890,10APR1912,southampton,new-york
+3,Rice, Ms. William (Margaret Norton),female,39,TITAN-891,10APR1912,southampton,new-york
+3,Salonen, M. Johan Werner,male,39,TITAN-892,10APR1912,southampton,new-york
+1,Blank, M. Henry,male,40,TITAN-893,10APR1912,southampton,new-york
+1,Harison, Mr. William,male,40,TITAN-894,10APR1912,southampton,new-york
+1,Shutes, Miss. Elizabeth W,female,40,TITAN-895,10APR1912,southampton,new-york
+1,Spedden, Ms. Frederic Oakley (Margaretta Corning Stone),female,40,TITAN-896,10APR1912,southampton,new-york
+1,Uuchurtu, Don. Manuel E,male,40,TITAN-897,10APR1912,southampton,new-york
+2,Bown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford),female,40,TITAN-898,10APR1912,southampton,new-york
+2,Faunthope, Mr. Harry,male,40,TITAN-899,10APR1912,southampton,new-york
+2,Maybey, Mr. Frank Hubert,male,40,TITAN-900,10APR1912,southampton,new-york
+2,Smith, Miss. Maion Elsie,female,40,TITAN-901,10APR1912,southampton,new-york
+2,Veal, M. James,male,40,TITAN-902,10APR1912,southampton,new-york
+2,Watt, Ms. James (Elizabeth 'Bessie' Inglis Milne),female,40,TITAN-903,10APR1912,southampton,new-york
+3,Ahlin, Ms. Johan (Johanna Persdotter Larsson),female,40,TITAN-904,10APR1912,southampton,new-york
+3,Asplund, M. Carl Oscar Vilhelm Gustafsson,male,40,TITAN-905,10APR1912,southampton,new-york
+3,Badt, M. Mohamed,male,40,TITAN-906,10APR1912,southampton,new-york
+3,Bouke, Mr. John,male,40,TITAN-907,10APR1912,southampton,new-york
+3,Eveett, Mr. Thomas James,male,40,TITAN-908,10APR1912,southampton,new-york
+3,Farell, Mr. James,male,40,TITAN-909,10APR1912,southampton,new-york
+3,Goodwin, M. Charles Frederick,male,40,TITAN-910,10APR1912,southampton,new-york
+3,Sivic, M. Husein,male,40,TITAN-911,10APR1912,southampton,new-york
+3,Skoog, M. Wilhelm,male,40,TITAN-912,10APR1912,southampton,new-york
+3,van Billiad, Mr. Austin Blyler,male,40.5,TITAN-913,10APR1912,southampton,new-york
+1,Bady, Mr. John Bertram,male,41,TITAN-914,10APR1912,southampton,new-york
+1,Buns, Miss. Elizabeth Margaret,female,41,TITAN-915,10APR1912,southampton,new-york
+1,Kenyon, M. Frederick R,male,41,TITAN-916,10APR1912,southampton,new-york
+2,Mellinge, Mrs. (Elizabeth Anne Maidment),female,41,TITAN-917,10APR1912,southampton,new-york
+2,Peuschitz, Rev. Joseph Maria,male,41,TITAN-918,10APR1912,southampton,new-york
+2,Stanton, M. Samuel Ward,male,41,TITAN-919,10APR1912,southampton,new-york
+3,Goldsmith, M. Nathan,male,41,TITAN-920,10APR1912,southampton,new-york
+3,Hansen, M. Claus Peter,male,41,TITAN-921,10APR1912,southampton,new-york
+3,Niva, Mr. Iisakki Antino Aijo,male,41,TITAN-922,10APR1912,southampton,new-york
+3,Panula, Ms. Juha (Maria Emilia Ojala),female,41,TITAN-923,10APR1912,southampton,new-york
+3,Rosblom, Ms. Viktor (Helena Wilhelmina),female,41,TITAN-924,10APR1912,southampton,new-york
+1,Bidois, Miss. Rosalie,female,42,TITAN-925,10APR1912,southampton,new-york
+1,Boebank, Mr. John James,male,42,TITAN-926,10APR1912,southampton,new-york
+1,Caldehead, Mr. Edward Pennington,male,42,TITAN-927,10APR1912,southampton,new-york
+1,Head, M. Christopher,male,42,TITAN-928,10APR1912,southampton,new-york
+1,Holveson, Mr. Alexander Oskar,male,42,TITAN-929,10APR1912,southampton,new-york
+1,Kimball, M. Edwin Nelson Jr,male,42,TITAN-930,10APR1912,southampton,new-york
+1,Lindebeg-Lind, Mr. Erik Gustaf ('Mr Edward Lingrey'),male,42,TITAN-931,10APR1912,southampton,new-york
+2,Bowenu, Mr. Solomon,male,42,TITAN-932,10APR1912,southampton,new-york
+2,Byles, Rev. Thomas Roussel Davids,male,42,TITAN-933,10APR1912,southampton,new-york
+2,Bystom, Mrs. (Karolina),female,42,TITAN-934,10APR1912,southampton,new-york
+2,Dew, Mr. James Vivian,male,42,TITAN-935,10APR1912,southampton,new-york
+2,Hosono, M. Masabumi,male,42,TITAN-936,10APR1912,southampton,new-york
+2,Jacobsohn, M. Sidney Samuel,male,42,TITAN-937,10APR1912,southampton,new-york
+2,Louch, Ms. Charles Alexander (Alice Adelaide Slow),female,42,TITAN-938,10APR1912,southampton,new-york
+3,Abbing, M. Anthony,male,42,TITAN-939,10APR1912,southampton,new-york
+3,Dimic, M. Jovan,male,42,TITAN-940,10APR1912,southampton,new-york
+3,Humblen, M. Adolf Mathias Nicolai Olsen,male,42,TITAN-941,10APR1912,southampton,new-york
+3,Olsen, M. Karl Siegwart Andreas,male,42,TITAN-942,10APR1912,southampton,new-york
+1,Fauenthal, Mr. Isaac Gerald,male,43,TITAN-943,10APR1912,southampton,new-york
+1,Robet, Mrs. Edward Scott (Elisabeth Walton McMillan),female,43,TITAN-944,10APR1912,southampton,new-york
+1,Stengel, Ms. Charles Emil Henry (Annie May Morris),female,43,TITAN-945,10APR1912,southampton,new-york
+2,Hat, Mr. Benjamin,male,43,TITAN-946,10APR1912,southampton,new-york
+2,Phillips, M. Escott Robert,male,43,TITAN-947,10APR1912,southampton,new-york
+3,Cook, M. Jacob,male,43,TITAN-948,10APR1912,southampton,new-york
+3,Dintcheff, M. Valtcho,male,43,TITAN-949,10APR1912,southampton,new-york
+3,Goodwin, Ms. Frederick (Augusta Tyler),female,43,TITAN-950,10APR1912,southampton,new-york
+3,Holm, M. John Fredrik Alexander,male,43,TITAN-951,10APR1912,southampton,new-york
+1,Bown, Mrs. James Joseph (Margaret Tobin),female,44,TITAN-952,10APR1912,southampton,new-york
+1,Hippach, Ms. Louis Albert (Ida Sophia Fischer),female,44,TITAN-953,10APR1912,southampton,new-york
+1,Minahan, D. William Edward,male,44,TITAN-954,10APR1912,southampton,new-york
+2,Cater, Mrs. Ernest Courtenay (Lilian Hughes),female,44,TITAN-955,10APR1912,southampton,new-york
+2,Habeck, Mr. William H,male,44,TITAN-956,10APR1912,southampton,new-york
+2,Hold, M. Stephen,male,44,TITAN-957,10APR1912,southampton,new-york
+3,Cibb, Mr. John Hatfield,male,44,TITAN-958,10APR1912,southampton,new-york
+3,Kelly, M. James,male,44,TITAN-959,10APR1912,southampton,new-york
+3,Sundman, M. Johan Julian,male,44,TITAN-960,10APR1912,southampton,new-york
+3,Tober, Mr. Ernst William,male,44,TITAN-961,10APR1912,southampton,new-york
+1,Blackwell, M. Stephen Weart,male,45,TITAN-962,10APR1912,southampton,new-york
+1,Bowen, Miss. Gace Scott,female,45,TITAN-963,10APR1912,southampton,new-york
+1,Butt, Majo. Archibald Willingham,male,45,TITAN-964,10APR1912,southampton,new-york
+1,Cheve, Mr. Paul Romaine,male,45,TITAN-965,10APR1912,southampton,new-york
+1,Gibson, Ms. Leonard (Pauline C Boeson),female,45,TITAN-966,10APR1912,southampton,new-york
+1,Geenfield, Mrs. Leo David (Blanche Strouse),female,45,TITAN-967,10APR1912,southampton,new-york
+1,Haris, Mr. Henry Birkhardt,male,45,TITAN-968,10APR1912,southampton,new-york
+1,Kimball, Ms. Edwin Nelson Jr (Gertrude Parsons),female,45,TITAN-969,10APR1912,southampton,new-york
+1,Patner, Mr. Austen,male,45,TITAN-970,10APR1912,southampton,new-york
+1,Romaine, M. Charles Hallace ('Mr C Rolmane'),male,45,TITAN-971,10APR1912,southampton,new-york
+1,Spedden, M. Frederic Oakley,male,45,TITAN-972,10APR1912,southampton,new-york
+1,Wick, Ms. George Dennick (Mary Hitchcock),female,45,TITAN-973,10APR1912,southampton,new-york
+2,Chisty, Mrs. (Alice Frances),female,45,TITAN-974,10APR1912,southampton,new-york
+2,Hat, Mrs. Benjamin (Esther Ada Bloomfield),female,45,TITAN-975,10APR1912,southampton,new-york
+2,Kelly, Ms. Florence 'Fannie',female,45,TITAN-976,10APR1912,southampton,new-york
+3,Assaf Khalil, Ms. Mariana ('Miriam'),female,45,TITAN-977,10APR1912,southampton,new-york
+3,Babara, Mrs. (Catherine David),female,45,TITAN-978,10APR1912,southampton,new-york
+3,Dahl, M. Karl Edwart,male,45,TITAN-979,10APR1912,southampton,new-york
+3,Ekstom, Mr. Johan,male,45,TITAN-980,10APR1912,southampton,new-york
+3,Hansen, Ms. Claus Peter (Jennie L Howard),female,45,TITAN-981,10APR1912,southampton,new-york
+3,Lindblom, Miss. Augusta Chalotta,female,45,TITAN-982,10APR1912,southampton,new-york
+3,Skoog, Ms. William (Anna Bernhardina Karlsson),female,45,TITAN-983,10APR1912,southampton,new-york
+3,Youseff, M. Gerious,male,45.5,TITAN-984,10APR1912,southampton,new-york
+1,Chaffee, M. Herbert Fuller,male,46,TITAN-985,10APR1912,southampton,new-york
+1,Guggenheim, M. Benjamin,male,46,TITAN-986,10APR1912,southampton,new-york
+1,Jones, M. Charles Cresson,male,46,TITAN-987,10APR1912,southampton,new-york
+1,McCaffy, Mr. Thomas Francis,male,46,TITAN-988,10APR1912,southampton,new-york
+1,Rosenshine, M. George ('Mr George Thorne'),male,46,TITAN-989,10APR1912,southampton,new-york
+2,McKane, M. Peter David,male,46,TITAN-990,10APR1912,southampton,new-york
+1,Asto, Col. John Jacob,male,47,TITAN-991,10APR1912,southampton,new-york
+1,Beckwith, Ms. Richard Leonard (Sallie Monypeny),female,47,TITAN-992,10APR1912,southampton,new-york
+1,Chaffee, Ms. Herbert Fuller (Carrie Constance Toogood),female,47,TITAN-993,10APR1912,southampton,new-york
+1,Colley, M. Edward Pomeroy,male,47,TITAN-994,10APR1912,southampton,new-york
+1,Gee, M. Arthur H,male,47,TITAN-995,10APR1912,southampton,new-york
+1,Mooe, Mr. Clarence Bloomfield,male,47,TITAN-996,10APR1912,southampton,new-york
+1,Poter, Mr. Walter Chamberlain,male,47,TITAN-997,10APR1912,southampton,new-york
+1,Walke, Mr. William Anderson,male,47,TITAN-998,10APR1912,southampton,new-york
+2,Gilbet, Mr. William,male,47,TITAN-999,10APR1912,southampton,new-york
+2,Javis, Mr. John Denzil,male,47,TITAN-1000,10APR1912,southampton,new-york
+3,Elsbuy, Mr. William James,male,47,TITAN-1001,10APR1912,southampton,new-york
+3,Robins, Ms. Alexander A (Grace Charity Laury),female,47,TITAN-1002,10APR1912,southampton,new-york
+3,Vande Cruyssen, Mr. Victor,male,47,TITAN-1003,10APR1912,southampton,new-york
+3,Wilkes, Ms. James (Ellen Needs),female,47,TITAN-1004,10APR1912,southampton,new-york
+1,Andeson, Mr. Harry,male,48,TITAN-1005,10APR1912,southampton,new-york
+1,Bandeis, Mr. Emil,male,48,TITAN-1006,10APR1912,southampton,new-york
+1,Douglas, Ms. Walter Donald (Mahala Dutton),female,48,TITAN-1007,10APR1912,southampton,new-york
+1,Duff Godon, Lady. (Lucille Christiana Sutherland) ('Mrs Morgan'),female,48,TITAN-1008,10APR1912,southampton,new-york
+1,Folicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli),female,48,TITAN-1009,10APR1912,southampton,new-york
+1,Haper, Mr. Henry Sleeper,male,48,TITAN-1010,10APR1912,southampton,new-york
+1,Ryeson, Mrs. Arthur Larned (Emily Maria Borie),female,48,TITAN-1011,10APR1912,southampton,new-york
+1,Swift, Ms. Frederick Joel (Margaret Welles Barron),female,48,TITAN-1012,10APR1912,southampton,new-york
+1,Taylo, Mr. Elmer Zebley,male,48,TITAN-1013,10APR1912,southampton,new-york
+2,Davies, Ms. John Morgan (Elizabeth Agnes Mary White),female,48,TITAN-1014,10APR1912,southampton,new-york
+2,Heman, Mrs. Samuel (Jane Laver),female,48,TITAN-1015,10APR1912,southampton,new-york
+2,Milling, M. Jacob Christian,male,48,TITAN-1016,10APR1912,southampton,new-york
+3,Fod, Mrs. Edward (Margaret Ann Watson),female,48,TITAN-1017,10APR1912,southampton,new-york
+3,Jensen, M. Niels Peder,male,48,TITAN-1018,10APR1912,southampton,new-york
+1,Case, M. Howard Brown,male,49,TITAN-1019,10APR1912,southampton,new-york
+1,Duff Godon, Sir. Cosmo Edmund ('Mr Morgan'),male,49,TITAN-1020,10APR1912,southampton,new-york
+1,Goldenbeg, Mr. Samuel L,male,49,TITAN-1021,10APR1912,southampton,new-york
+1,Haper, Mrs. Henry Sleeper (Myna Haxtun),female,49,TITAN-1022,10APR1912,southampton,new-york
+1,Ismay, M. Joseph Bruce,male,49,TITAN-1023,10APR1912,southampton,new-york
+1,Leade, Dr. Alice (Farnham),female,49,TITAN-1024,10APR1912,southampton,new-york
+1,Thaye, Mr. John Borland,male,49,TITAN-1025,10APR1912,southampton,new-york
+2,Heman, Mr. Samuel,male,49,TITAN-1026,10APR1912,southampton,new-york
+3,Johnson, M. Alfred,male,49,TITAN-1027,10APR1912,southampton,new-york
+1,Baxte, Mrs. James (Helene DeLaudeniere Chaput),female,50,TITAN-1028,10APR1912,southampton,new-york
+1,Douglas, M. Walter Donald,male,50,TITAN-1029,10APR1912,southampton,new-york
+1,Fauenthal, Dr. Henry William,male,50,TITAN-1030,10APR1912,southampton,new-york
+1,Isham, Miss. Ann Elizabeth,female,50,TITAN-1031,10APR1912,southampton,new-york
+1,Julian, M. Henry Forbes,male,50,TITAN-1032,10APR1912,southampton,new-york
+1,Silvey, M. William Baird,male,50,TITAN-1033,10APR1912,southampton,new-york
+1,Widene, Mr. George Dunton,male,50,TITAN-1034,10APR1912,southampton,new-york
+1,Widene, Mrs. George Dunton (Eleanor Elkins),female,50,TITAN-1035,10APR1912,southampton,new-york
+2,Hodges, M. Henry Price,male,50,TITAN-1036,10APR1912,southampton,new-york
+2,Louch, M. Charles Alexander,male,50,TITAN-1037,10APR1912,southampton,new-york
+2,Parish, Mrs. (Lutie Davis),female,50,TITAN-1038,10APR1912,southampton,new-york
+2,Ridsdale, Miss. Lucy,female,50,TITAN-1039,10APR1912,southampton,new-york
+2,Toomey, Miss. Ellen,female,50,TITAN-1040,10APR1912,southampton,new-york
+3,Robins, M. Alexander A,male,50,TITAN-1041,10APR1912,southampton,new-york
+3,Rouse, M. Richard Henry,male,50,TITAN-1042,10APR1912,southampton,new-york
+1,Daly, M. Peter Denis,male,51,TITAN-1043,10APR1912,southampton,new-york
+1,Hogeboom, Ms. John C (Anna Andrews),female,51,TITAN-1044,10APR1912,southampton,new-york
+1,Lines, Ms. Ernest H (Elizabeth Lindsey James),female,51,TITAN-1045,10APR1912,southampton,new-york
+1,Williams, M. Charles Duane,male,51,TITAN-1046,10APR1912,southampton,new-york
+2,Bateman, Rev. Robet James,male,51,TITAN-1047,10APR1912,southampton,new-york
+3,Geen, Mr. George Henry,male,51,TITAN-1048,10APR1912,southampton,new-york
+3,Lundahl, M. Johan Svensson,male,51,TITAN-1049,10APR1912,southampton,new-york
+3,Widegen, Mr. Carl/Charles Peter,male,51,TITAN-1050,10APR1912,southampton,new-york
+1,Hays, Ms. Charles Melville (Clara Jennings Gregg),female,52,TITAN-1051,10APR1912,southampton,new-york
+1,Peuchen, Majo. Arthur Godfrey,male,52,TITAN-1052,10APR1912,southampton,new-york
+1,Stephenson, Ms. Walter Bertram (Martha Eustis),female,52,TITAN-1053,10APR1912,southampton,new-york
+1,Taussig, M. Emil,male,52,TITAN-1054,10APR1912,southampton,new-york
+2,Chapman, M. Charles Henry,male,52,TITAN-1055,10APR1912,southampton,new-york
+2,Geenberg, Mr. Samuel,male,52,TITAN-1056,10APR1912,southampton,new-york
+1,Appleton, Ms. Edward Dale (Charlotte Lamson),female,53,TITAN-1057,10APR1912,southampton,new-york
+1,Candee, Ms. Edward (Helen Churchill Hungerford),female,53,TITAN-1058,10APR1912,southampton,new-york
+1,Dodge, D. Washington,male,53,TITAN-1059,10APR1912,southampton,new-york
+1,Gacie, Col. Archibald IV,male,53,TITAN-1060,10APR1912,southampton,new-york
+1,Dodge, Ms. Washington (Ruth Vidaver),female,54,TITAN-1061,10APR1912,southampton,new-york
+1,Eustis, Miss. Elizabeth Mussey,female,54,TITAN-1062,10APR1912,southampton,new-york
+1,McCathy, Mr. Timothy J,male,54,TITAN-1063,10APR1912,southampton,new-york
+1,Rothschild, Ms. Martin (Elizabeth L. Barrett),female,54,TITAN-1064,10APR1912,southampton,new-york
+1,Stengel, M. Charles Emil Henry,male,54,TITAN-1065,10APR1912,southampton,new-york
+1,White, M. Percival Wayland,male,54,TITAN-1066,10APR1912,southampton,new-york
+2,Cater, Rev. Ernest Courtenay,male,54,TITAN-1067,10APR1912,southampton,new-york
+2,Downton, M. William James,male,54,TITAN-1068,10APR1912,southampton,new-york
+2,Hocking, Ms. Elizabeth (Eliza Needs),female,54,TITAN-1069,10APR1912,southampton,new-york
+2,Moaweck, Dr. Ernest,male,54,TITAN-1070,10APR1912,southampton,new-york
+1,Conell, Mrs. Robert Clifford (Malvina Helen Lamson),female,55,TITAN-1071,10APR1912,southampton,new-york
+1,Hays, M. Charles Melville,male,55,TITAN-1072,10APR1912,southampton,new-york
+1,Hipkins, M. William Edward,male,55,TITAN-1073,10APR1912,southampton,new-york
+1,Lindstom, Mrs. Carl Johan (Sigrid Posse),female,55,TITAN-1074,10APR1912,southampton,new-york
+1,Molson, M. Harry Markland,male,55,TITAN-1075,10APR1912,southampton,new-york
+1,Rothschild, M. Martin,male,55,TITAN-1076,10APR1912,southampton,new-york
+1,White, Ms. John Stuart (Ella Holmes),female,55,TITAN-1077,10APR1912,southampton,new-york
+2,Hewlett, Ms. (Mary D Kingcome),female,55,TITAN-1078,10APR1912,southampton,new-york
+3,Meo, M. Alfonzo,male,55.5,TITAN-1079,10APR1912,southampton,new-york
+1,Potte, Mrs. Thomas Jr (Lily Alexenia Wilson),female,56,TITAN-1080,10APR1912,southampton,new-york
+1,Simonius-Blume, Col. Oberst Alfons,male,56,TITAN-1081,10APR1912,southampton,new-york
+1,Smat, Mr. John Montgomery,male,56,TITAN-1082,10APR1912,southampton,new-york
+1,Smith, M. James Clinch,male,56,TITAN-1083,10APR1912,southampton,new-york
+1,Spence, Mr. William Augustus,male,57,TITAN-1084,10APR1912,southampton,new-york
+1,Wick, M. George Dennick,male,57,TITAN-1085,10APR1912,southampton,new-york
+2,Ashby, M. John,male,57,TITAN-1086,10APR1912,southampton,new-york
+2,Kikland, Rev. Charles Leonard,male,57,TITAN-1087,10APR1912,southampton,new-york
+2,Mack, Ms. (Mary),female,57,TITAN-1088,10APR1912,southampton,new-york
+1,Bonnell, Miss. Elizabeth,female,58,TITAN-1089,10APR1912,southampton,new-york
+1,Cadeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake),female,58,TITAN-1090,10APR1912,southampton,new-york
+1,Gaham, Mrs. William Thompson (Edith Junkins),female,58,TITAN-1091,10APR1912,southampton,new-york
+1,Kent, M. Edward Austin,male,58,TITAN-1092,10APR1912,southampton,new-york
+1,Luette, Miss. Elise,female,58,TITAN-1093,10APR1912,southampton,new-york
+1,Newell, M. Arthur Webster,male,58,TITAN-1094,10APR1912,southampton,new-york
+1,Bown, Mrs. John Murray (Caroline Lane Lamson),female,59,TITAN-1095,10APR1912,southampton,new-york
+2,Sjostedt, M. Ernst Adolf,male,59,TITAN-1096,10APR1912,southampton,new-york
+3,Coxon, M. Daniel,male,59,TITAN-1097,10APR1912,southampton,new-york
+1,Bucknell, Ms. William Robert (Emma Eliza Ward),female,60,TITAN-1098,10APR1912,southampton,new-york
+1,Fotune, Mrs. Mark (Mary McDougald),female,60,TITAN-1099,10APR1912,southampton,new-york
+1,Folicher-Stehli, Mr. Maxmillian,male,60,TITAN-1100,10APR1912,southampton,new-york
+1,Waren, Mrs. Frank Manley (Anna Sophia Atkinson),female,60,TITAN-1101,10APR1912,southampton,new-york
+1,Wei, Col. John,male,60,TITAN-1102,10APR1912,southampton,new-york
+2,Bown, Mr. Thomas William Solomon,male,60,TITAN-1103,10APR1912,southampton,new-york
+2,Howad, Mrs. Benjamin (Ellen Truelove Arman),female,60,TITAN-1104,10APR1912,southampton,new-york
+3,Stoey, Mr. Thomas,male,60.5,TITAN-1105,10APR1912,southampton,new-york
+1,Ryeson, Mr. Arthur Larned,male,61,TITAN-1106,10APR1912,southampton,new-york
+1,Sutton, M. Frederick,male,61,TITAN-1107,10APR1912,southampton,new-york
+1,Van de hoef, Mr. Wyckoff,male,61,TITAN-1108,10APR1912,southampton,new-york
+2,Lingane, M. John,male,61,TITAN-1109,10APR1912,southampton,new-york
+3,Nysveen, M. Johan Hansen,male,61,TITAN-1110,10APR1912,southampton,new-york
+1,Stead, M. William Thomas,male,62,TITAN-1111,10APR1912,southampton,new-york
+1,Stone, Ms. George Nelson (Martha Evelyn),female,62,TITAN-1112,10APR1912,southampton,new-york
+1,Wight, Mr. George,male,62,TITAN-1113,10APR1912,southampton,new-york
+2,Haris, Mr. George,male,62,TITAN-1114,10APR1912,southampton,new-york
+2,Myles, M. Thomas Francis,male,62,TITAN-1115,10APR1912,southampton,new-york
+1,Andews, Miss. Kornelia Theodosia,female,63,TITAN-1116,10APR1912,southampton,new-york
+1,Staus, Mrs. Isidor (Rosalie Ida Blun),female,63,TITAN-1117,10APR1912,southampton,new-york
+2,Howad, Mr. Benjamin,male,63,TITAN-1118,10APR1912,southampton,new-york
+3,Tukula, Mrs. (Hedwig),female,63,TITAN-1119,10APR1912,southampton,new-york
+1,Compton, Ms. Alexander Taylor (Mary Eliza Ingersoll),female,64,TITAN-1120,10APR1912,southampton,new-york
+1,Cosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead),female,64,TITAN-1121,10APR1912,southampton,new-york
+1,Fotune, Mr. Mark,male,64,TITAN-1122,10APR1912,southampton,new-york
+1,Nicholson, M. Arthur Ernest,male,64,TITAN-1123,10APR1912,southampton,new-york
+1,Waren, Mr. Frank Manley,male,64,TITAN-1124,10APR1912,southampton,new-york
+1,Millet, M. Francis Davis,male,65,TITAN-1125,10APR1912,southampton,new-york
+1,Ostby, M. Engelhart Cornelius,male,65,TITAN-1126,10APR1912,southampton,new-york
+3,Duane, M. Frank,male,65,TITAN-1127,10APR1912,southampton,new-york
+2,Wheadon, M. Edward H,male,66,TITAN-1128,10APR1912,southampton,new-york
+1,Staus, Mr. Isidor,male,67,TITAN-1129,10APR1912,southampton,new-york
+1,Cosby, Capt. Edward Gifford,male,70,TITAN-1130,10APR1912,southampton,new-york
+2,Mitchell, M. Henry Michael,male,70,TITAN-1131,10APR1912,southampton,new-york
+3,Connos, Mr. Patrick,male,70,TITAN-1132,10APR1912,southampton,new-york
+1,Atagaveytia, Mr. Ramon,male,71,TITAN-1133,10APR1912,southampton,new-york
+1,Goldschmidt, M. George B,male,71,TITAN-1134,10APR1912,southampton,new-york
+3,Svensson, M. Johan,male,74,TITAN-1135,10APR1912,southampton,new-york
+1,Cavendish, Ms. Tyrell William (Julia Florence Siegel),female,76,TITAN-1136,10APR1912,southampton,new-york
+1,Bakworth, Mr. Algernon Henry Wilson,male,80,TITAN-1137,10APR1912,southampton,new-york
+3,Ilieff, M. Ylio,male,30,TITAN-1138,10APR1912,southampton,new-york
+3,Ivanoff, M. Kanio,male,30,TITAN-1139,10APR1912,southampton,new-york
+3,Jadin, Mr. Jose Neto,male,30,TITAN-1140,10APR1912,southampton,new-york
+3,Jemyn, Miss. Annie,female,30,TITAN-1141,10APR1912,southampton,new-york
+3,Johannesen-Batthammer, Mr. Bernt,male,30,TITAN-1142,10APR1912,southampton,new-york
+3,Johnston, Maste. William Arthur 'Willie',male,30,TITAN-1143,10APR1912,southampton,new-york
+3,Johnston, Miss. Catheine Helen 'Carrie',female,30,TITAN-1144,10APR1912,southampton,new-york
+3,Johnston, M. Andrew G,male,30,TITAN-1145,10APR1912,southampton,new-york
+3,Johnston, Ms. Andrew G (Elizabeth 'Lily' Watson),female,30,TITAN-1146,10APR1912,southampton,new-york
+3,Kassem, M. Fared,male,30,TITAN-1147,10APR1912,southampton,new-york
+3,Keane, M. Andrew 'Andy',male,30,TITAN-1148,10APR1912,southampton,new-york
+3,Keefe, M. Arthur,male,30,TITAN-1149,10APR1912,southampton,new-york
+3,Kelly, Miss. Anna Katheine 'Annie Kate',female,30,TITAN-1150,10APR1912,southampton,new-york
+3,Kelly, Miss. May,female,30,TITAN-1151,10APR1912,southampton,new-york
+3,Kennedy, M. John,male,30,TITAN-1152,10APR1912,southampton,new-york
+3,Khalil, M. Betros,male,30,TITAN-1153,10APR1912,southampton,new-york
+3,Khalil, Ms. Betros (Zahie 'Maria' Elias),female,30,TITAN-1154,10APR1912,southampton,new-york
+3,Kienan, Mr. John,male,30,TITAN-1155,10APR1912,southampton,new-york
+3,Kienan, Mr. Philip,male,30,TITAN-1156,10APR1912,southampton,new-york
+3,Kilgannon, M. Thomas J,male,30,TITAN-1157,10APR1912,southampton,new-york
+3,Kaeff, Mr. Theodor,male,30,TITAN-1158,10APR1912,southampton,new-york
+3,Lahoud, M. Sarkis,male,30,TITAN-1159,10APR1912,southampton,new-york
+3,Laleff, M. Kristo,male,30,TITAN-1160,10APR1912,southampton,new-york
+3,Lam, M. Ali,male,30,TITAN-1161,10APR1912,southampton,new-york
+3,Lam, M. Len,male,30,TITAN-1162,10APR1912,southampton,new-york
+3,Lane, M. Patrick,male,30,TITAN-1163,10APR1912,southampton,new-york
+3,Lefebe, Master. Henry Forbes,male,30,TITAN-1164,10APR1912,southampton,new-york
+3,Lefebe, Miss. Ida,female,30,TITAN-1165,10APR1912,southampton,new-york
+3,Lefebe, Miss. Jeannie,female,30,TITAN-1166,10APR1912,southampton,new-york
+3,Lefebe, Miss. Mathilde,female,30,TITAN-1167,10APR1912,southampton,new-york
+3,Lefebe, Mrs. Frank (Frances),female,30,TITAN-1168,10APR1912,southampton,new-york
+3,Lennon, Miss. May,female,30,TITAN-1169,10APR1912,southampton,new-york
+3,Lennon, M. Denis,male,30,TITAN-1170,10APR1912,southampton,new-york
+3,Linehan, M. Michael,male,30,TITAN-1171,10APR1912,southampton,new-york
+3,Lithman, M. Simon,male,30,TITAN-1172,10APR1912,southampton,new-york
+3,Lockye, Mr. Edward,male,30,TITAN-1173,10APR1912,southampton,new-york
+3,Lyntakoff, M. Stanko,male,30,TITAN-1174,10APR1912,southampton,new-york
+3,MacKay, M. George William,male,30,TITAN-1175,10APR1912,southampton,new-york
+3,Madigan, Miss. Magaret 'Maggie',female,30,TITAN-1176,10APR1912,southampton,new-york
+3,Mahon, Miss. Bidget Delia,female,30,TITAN-1177,10APR1912,southampton,new-york
+3,Mahon, M. John,male,30,TITAN-1178,10APR1912,southampton,new-york
+3,Maisne, Mr. Simon,male,30,TITAN-1179,10APR1912,southampton,new-york
+3,Mamee, M. Hanna,male,30,TITAN-1180,10APR1912,southampton,new-york
+3,Mannion, Miss. Magareth,female,30,TITAN-1181,10APR1912,southampton,new-york
+3,Madirosian, Mr. Sarkis,male,30,TITAN-1182,10APR1912,southampton,new-york
+3,Masselmani, Ms. Fatima,female,30,TITAN-1183,10APR1912,southampton,new-york
+3,Matinoff, M. Nicola,male,30,TITAN-1184,10APR1912,southampton,new-york
+3,McCathy, Miss. Catherine 'Katie',female,30,TITAN-1185,10APR1912,southampton,new-york
+3,McComack, Mr. Thomas Joseph,male,30,TITAN-1186,10APR1912,southampton,new-york
+3,McCoy, Miss. Agnes,female,30,TITAN-1187,10APR1912,southampton,new-york
+3,McCoy, Miss. Alicia,female,30,TITAN-1188,10APR1912,southampton,new-york
+3,McCoy, M. Bernard,male,30,TITAN-1189,10APR1912,southampton,new-york
+3,McDemott, Miss. Brigdet Delia,female,30,TITAN-1190,10APR1912,southampton,new-york
+3,McEvoy, M. Michael,male,30,TITAN-1191,10APR1912,southampton,new-york
+3,McGoven, Miss. Mary,female,30,TITAN-1192,10APR1912,southampton,new-york
+3,McMahon, M. Martin,male,30,TITAN-1193,10APR1912,southampton,new-york
+3,McNeill, Miss. Bidget,female,30,TITAN-1194,10APR1912,southampton,new-york
+3,Meanwell, Miss. (Maion Ogden),female,30,TITAN-1195,10APR1912,southampton,new-york
+3,Meek, Ms. Thomas (Annie Louise Rowley),female,30,TITAN-1196,10APR1912,southampton,new-york
+3,Menagh, Mr. Robert,male,30,TITAN-1197,10APR1912,southampton,new-york
+3,Miles, M. Frank,male,30,TITAN-1198,10APR1912,southampton,new-york
+3,Mitkoff, M. Mito,male,30,TITAN-1199,10APR1912,southampton,new-york
+3,Mockle, Miss. Helen Mary 'Ellie',female,30,TITAN-1200,10APR1912,southampton,new-york
+3,Mooe, Mr. Leonard Charles,male,30,TITAN-1201,10APR1912,southampton,new-york
+3,Moan, Miss. Bertha,female,30,TITAN-1202,10APR1912,southampton,new-york
+3,Moan, Mr. Daniel J,male,30,TITAN-1203,10APR1912,southampton,new-york
+3,Moan, Mr. James,male,30,TITAN-1204,10APR1912,southampton,new-york
+3,Morow, Mr. Thomas Rowan,male,30,TITAN-1205,10APR1912,southampton,new-york
+3,Moss, M. Albert Johan,male,30,TITAN-1206,10APR1912,southampton,new-york
+3,Moubaek, Master. Gerios,male,30,TITAN-1207,10APR1912,southampton,new-york
+3,Moubaek, Master. Halim Gonios ('William George'),male,30,TITAN-1208,10APR1912,southampton,new-york
+3,Moubaek, Mrs. George (Omine 'Amenia' Alexander),female,30,TITAN-1209,10APR1912,southampton,new-york
+3,Moussa, Ms. (Mantoura Boulos),female,30,TITAN-1210,10APR1912,southampton,new-york
+3,Moutal, M. Rahamin Haim,male,30,TITAN-1211,10APR1912,southampton,new-york
+3,Mullens, Miss. Katheine 'Katie',female,30,TITAN-1212,10APR1912,southampton,new-york
+3,Mudlin, Mr. Joseph,male,30,TITAN-1213,10APR1912,southampton,new-york
+3,Muphy, Miss. Katherine 'Kate',female,30,TITAN-1214,10APR1912,southampton,new-york
+3,Muphy, Miss. Margaret Jane,female,30,TITAN-1215,10APR1912,southampton,new-york
+3,Muphy, Miss. Nora,female,30,TITAN-1216,10APR1912,southampton,new-york
+3,Nankoff, M. Minko,male,30,TITAN-1217,10APR1912,southampton,new-york
+3,Nas, Mr. Mustafa,male,30,TITAN-1218,10APR1912,southampton,new-york
+3,Naughton, Miss. Hannah,female,30,TITAN-1219,10APR1912,southampton,new-york
+3,Nenkoff, M. Christo,male,30,TITAN-1220,10APR1912,southampton,new-york
+3,O'Bien, Mr. Thomas,male,30,TITAN-1221,10APR1912,southampton,new-york
+3,O'Bien, Mr. Timothy,male,30,TITAN-1222,10APR1912,southampton,new-york
+3,O'Bien, Mrs. Thomas (Johanna 'Hannah' Godfrey),female,30,TITAN-1223,10APR1912,southampton,new-york
+3,O'Connell, M. Patrick D,male,30,TITAN-1224,10APR1912,southampton,new-york
+3,O'Conno, Mr. Maurice,male,30,TITAN-1225,10APR1912,southampton,new-york
+3,O'Conno, Mr. Patrick,male,30,TITAN-1226,10APR1912,southampton,new-york
+3,O'Donoghue, Ms. Bidget,female,30,TITAN-1227,10APR1912,southampton,new-york
+3,O'Discoll, Miss. Bridget,female,30,TITAN-1228,10APR1912,southampton,new-york
+3,O'Dwye, Miss. Ellen 'Nellie',female,30,TITAN-1229,10APR1912,southampton,new-york
+3,O'Keefe, M. Patrick,male,30,TITAN-1230,10APR1912,southampton,new-york
+3,O'Leay, Miss. Hanora 'Norah',female,30,TITAN-1231,10APR1912,southampton,new-york
+3,Olsen, M. Ole Martin,male,30,TITAN-1232,10APR1912,southampton,new-york
+3,O'Sullivan, Miss. Bidget Mary,female,30,TITAN-1233,10APR1912,southampton,new-york
+3,Paulne, Mr. Uscher,male,30,TITAN-1234,10APR1912,southampton,new-york
+3,Peace, Mr. Ernest,male,30,TITAN-1235,10APR1912,southampton,new-york
+3,Pedesen, Mr. Olaf,male,30,TITAN-1236,10APR1912,southampton,new-york
+3,Peduzzi, M. Joseph,male,30,TITAN-1237,10APR1912,southampton,new-york
+3,Pete, Master. Michael J,male,30,TITAN-1238,10APR1912,southampton,new-york
+3,Pete, Miss. Anna,female,30,TITAN-1239,10APR1912,southampton,new-york
+3,Pete, Mrs. Catherine (Catherine Rizk),female,30,TITAN-1240,10APR1912,southampton,new-york
+3,Petes, Miss. Katie,female,30,TITAN-1241,10APR1912,southampton,new-york
+3,Petoff, Mr. Pastcho ('Pentcho'),male,30,TITAN-1242,10APR1912,southampton,new-york
+3,Plotchasky, Mr. Vasil,male,30,TITAN-1243,10APR1912,southampton,new-york
+3,Radeff, M. Alexander,male,30,TITAN-1244,10APR1912,southampton,new-york
+3,Rasmussen, Ms. (Lena Jacobsen Solvang),female,30,TITAN-1245,10APR1912,southampton,new-york
+3,Razi, M. Raihed,male,30,TITAN-1246,10APR1912,southampton,new-york
+3,Reed, M. James George,male,30,TITAN-1247,10APR1912,southampton,new-york
+3,Riodan, Miss. Johanna 'Hannah',female,30,TITAN-1248,10APR1912,southampton,new-york
+3,Risien, M. Samuel Beard,male,30,TITAN-1249,10APR1912,southampton,new-york
+3,Risien, Ms. Samuel (Emma),female,30,TITAN-1250,10APR1912,southampton,new-york
+3,Roges, Mr. William John,male,30,TITAN-1251,10APR1912,southampton,new-york
+3,Rommetvedt, M. Knud Paust,male,30,TITAN-1252,10APR1912,southampton,new-york
+3,Roth, Miss. Saah A,female,30,TITAN-1253,10APR1912,southampton,new-york
+3,Ryan, M. Edward,male,30,TITAN-1254,10APR1912,southampton,new-york
+3,Ryan, M. Patrick,male,30,TITAN-1255,10APR1912,southampton,new-york
+3,Saad, M. Amin,male,30,TITAN-1256,10APR1912,southampton,new-york
+3,Saade, M. Jean Nassr,male,30,TITAN-1257,10APR1912,southampton,new-york
+3,Sadlie, Mr. Matthew,male,30,TITAN-1258,10APR1912,southampton,new-york
+3,Sadowitz, M. Harry,male,30,TITAN-1259,10APR1912,southampton,new-york
+3,Sage, Maste. Thomas Henry,male,30,TITAN-1260,10APR1912,southampton,new-york
+3,Sage, Miss. Ada,female,30,TITAN-1261,10APR1912,southampton,new-york
+3,Sage, Miss. Constance Gladys,female,30,TITAN-1262,10APR1912,southampton,new-york
+3,Sage, Miss. Doothy Edith 'Dolly',female,30,TITAN-1263,10APR1912,southampton,new-york
+3,Sage, Miss. Stella Anna,female,30,TITAN-1264,10APR1912,southampton,new-york
+3,Sage, M. Douglas Bullen,male,30,TITAN-1265,10APR1912,southampton,new-york
+3,Sage, M. Frederick,male,30,TITAN-1266,10APR1912,southampton,new-york
+3,Sage, M. George John Jr,male,30,TITAN-1267,10APR1912,southampton,new-york
+3,Sage, M. John George,male,30,TITAN-1268,10APR1912,southampton,new-york
+3,Sage, Ms. John (Annie Bullen),female,30,TITAN-1269,10APR1912,southampton,new-york
+3,Samaan, M. Elias,male,30,TITAN-1270,10APR1912,southampton,new-york
+3,Samaan, M. Hanna,male,30,TITAN-1271,10APR1912,southampton,new-york
+3,Samaan, M. Youssef,male,30,TITAN-1272,10APR1912,southampton,new-york
+3,Scanlan, M. James,male,30,TITAN-1273,10APR1912,southampton,new-york
+3,Sdycoff, M. Todor,male,30,TITAN-1274,10APR1912,southampton,new-york
+3,Shaughnessy, M. Patrick,male,30,TITAN-1275,10APR1912,southampton,new-york
+3,Shellad, Mr. Frederick William,male,30,TITAN-1276,10APR1912,southampton,new-york
+3,Shine, Miss. Ellen Natalia,female,30,TITAN-1277,10APR1912,southampton,new-york
+3,Shoney, Mr. Charles Joseph,male,30,TITAN-1278,10APR1912,southampton,new-york
+3,Simmons, M. John,male,30,TITAN-1279,10APR1912,southampton,new-york
+3,Siota, Mr. Maurice,male,30,TITAN-1280,10APR1912,southampton,new-york
+3,Slabenoff, M. Petco,male,30,TITAN-1281,10APR1912,southampton,new-york
+3,Slocovski, M. Selman Francis,male,30,TITAN-1282,10APR1912,southampton,new-york
+3,Smiljanic, M. Mile,male,30,TITAN-1283,10APR1912,southampton,new-york
+3,Smith, M. Thomas,male,30,TITAN-1284,10APR1912,southampton,new-york
+3,Smyth, Miss. Julia,female,30,TITAN-1285,10APR1912,southampton,new-york
+3,Specto, Mr. Woolf,male,30,TITAN-1286,10APR1912,southampton,new-york
+3,Staneff, M. Ivan,male,30,TITAN-1287,10APR1912,southampton,new-york
+3,Thomas, M. Charles P,male,30,TITAN-1288,10APR1912,southampton,new-york
+3,Thomas, M. John,male,30,TITAN-1289,10APR1912,southampton,new-york
+3,Thomas, M. Tannous,male,30,TITAN-1290,10APR1912,southampton,new-york
+3,Thomson, M. Alexander Morrison,male,30,TITAN-1291,10APR1912,southampton,new-york
+3,Thoneycroft, Mr. Percival,male,30,TITAN-1292,10APR1912,southampton,new-york
+3,Thoneycroft, Mrs. Percival (Florence Kate White),female,30,TITAN-1293,10APR1912,southampton,new-york
+3,Tobin, M. Roger,male,30,TITAN-1294,10APR1912,southampton,new-york
+3,Todooff, Mr. Lalio,male,30,TITAN-1295,10APR1912,southampton,new-york
+3,Tofa, Mr. Assad,male,30,TITAN-1296,10APR1912,southampton,new-york
+3,Toufik, M. Nakli,male,30,TITAN-1297,10APR1912,southampton,new-york
+3,van Billiad, Master. James William,male,30,TITAN-1298,10APR1912,southampton,new-york
+3,van Melkebeke, M. Philemon,male,30,TITAN-1299,10APR1912,southampton,new-york
+3,Wae, Mr. Frederick,male,30,TITAN-1300,10APR1912,southampton,new-york
+3,Waren, Mr. Charles William,male,30,TITAN-1301,10APR1912,southampton,new-york
+3,Webbe, Mr. James,male,30,TITAN-1302,10APR1912,southampton,new-york
+3,Wille, Mr. Aaron ('Abi Weller'),male,30,TITAN-1303,10APR1912,southampton,new-york
+3,Willey, M. Edward,male,30,TITAN-1304,10APR1912,southampton,new-york
+3,Williams, M. Howard Hugh 'Harry',male,30,TITAN-1305,10APR1912,southampton,new-york
+3,Wiseman, M. Phillippe,male,30,TITAN-1306,10APR1912,southampton,new-york
+3,Yousif, M. Wazli,male,30,TITAN-1307,10APR1912,southampton,new-york
+3,Yousseff, M. Gerious,male,30,TITAN-1308,10APR1912,southampton,new-york
+3,Zabou, Miss. Thamine,female,30,TITAN-1309,10APR1912,southampton,new-york
