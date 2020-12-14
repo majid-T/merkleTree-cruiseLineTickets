@@ -17,12 +17,15 @@
  * phrase from a file you've .gitignored so it doesn't accidentally become public.
  *
  */
+require('dotenv').config();
 
 // const HDWalletProvider = require('@truffle/hdwallet-provider');
-// const infuraKey = "fj4jll3k.....";
-//
-// const fs = require('fs');
-// const mnemonic = fs.readFileSync(".secret").toString().trim();
+const HDWalletProvider = require('truffle-hdwallet-provider')
+const mnemonic = process.env.SEED;
+
+const infuraKey = process.env.PROJECT_ID;
+const infuraHttps = process.env.INFURA_ENDPOINT_HTTPS;
+
 
 module.exports = {
   /**
@@ -72,6 +75,17 @@ module.exports = {
     // network_id: 2111,   // This network is yours, in the cloud.
     // production: true    // Treats this network as if it was a public net. (default: false)
     // }
+      rinkeby: {
+      provider: function() { 
+      //  return new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/${infuraKey}`);
+        return new HDWalletProvider(mnemonic,`https://rinkeby.infura.io/v3/${infuraKey}`);
+      },
+      network_id: 4,
+      gas: 6000000,
+      gasPrice: 25000000000, // 25 Gwei. default = 100 gwei = 100000000000
+      skipDryRun: true,
+      timeoutBlocks: 200
+    }
   },
 
   // Set default mocha options here, use special reporters etc.
@@ -82,7 +96,7 @@ module.exports = {
   // Configure your compilers
   compilers: {
     solc: {
-      version: "^0.6.10",
+      version: "^0.6.12",
     },
   },
 };
