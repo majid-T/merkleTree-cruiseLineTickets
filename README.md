@@ -1,8 +1,6 @@
 # merkleTree-cruiseLineTickets
 
 - Use of Merkle tree / Merkle root to validate passengers tickets
-- Student project by : Majid Shockoohi
-- Student ID: 101284289
 
 ## Description
 
