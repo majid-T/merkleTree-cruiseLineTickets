@@ -1,0 +1,76 @@
+Compiling your contracts...
+===========================
+× Fetching solc version list from solc-bin. Attempt #1
+× Fetching solc version list from solc-bin. Attempt #2
+√ Fetching solc version list from solc-bin. Attempt #3
+> Compiling .\contracts\CruiseMerkle.sol
+> Compiling .\contracts\Migrations.sol
+× Fetching solc version list from solc-bin. Attempt #1
+× Fetching solc version list from solc-bin. Attempt #2
+√ Fetching solc version list from solc-bin. Attempt #3
+> Artifacts written to C:\Users\majid\Desktop\projects\merkleTree-cruiseLineTickets\build\contracts
+> Compiled successfully using:
+   - solc: 0.6.12+commit.27d51765.Emscripten.clang
+
+
+
+Starting migrations...
+======================
+> Network name:    'rinkeby'
+> Network id:      4
+> Block gas limit: 10000000 (0x989680)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x81ef5aa9cc405c8a643e9df0beae3ab82f7eb0b7e76f4a50a5dfedbbf5069a69
+   > Blocks: 0            Seconds: 8
+   > contract address:    0x925A8f256545bA579e48f7AAbEcb81f91f07d64E
+   > block number:        7743157
+   > block timestamp:     1608324487
+   > account:             0x13bfb3f0637Ef3443CD881DD438abd0517EA3Dd1
+   > balance:             2.994709373
+   > gas used:            159195 (0x26ddb)
+   > gas price:           25 gwei
+   > value sent:          0 ETH
+   > total cost:          0.003979875 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:         0.003979875 ETH
+
+
+2_deployments.js
+================
+Deploying from 0x13bfb3f0637Ef3443CD881DD438abd0517EA3Dd1
+
+   Deploying 'CruiseMerkle'
+   ------------------------
+   > transaction hash:    0x3d31cf94a10c82cf894a0ce9c8052a369b985baef181a25082388defc7ffe791
+   > Blocks: 0            Seconds: 8
+   > contract address:    0xa868B2855885E2915069AdbbEDDF4566083Aa00f
+   > block number:        7743159
+   > block timestamp:     1608324517
+   > account:             0x13bfb3f0637Ef3443CD881DD438abd0517EA3Dd1
+   > balance:             2.982981023
+   > gas used:            426796 (0x6832c)
+   > gas price:           25 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0106699 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:           0.0106699 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.014649775 ETH

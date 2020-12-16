@@ -1,0 +1,86 @@
+Compiling your contracts...
+===========================
+√ Fetching solc version list from solc-bin. Attempt #1
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'testnet'
+> Network id:      97
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0xcd03526ec69723dee18342a21cf4974b8ce8a127563120cb9a4eb69d03781055
+   > Blocks: 3            Seconds: 9
+   > contract address:    0x04501E4F31380e7D1e727dE42e5C9544f5D3FBe8
+   > block number:        4678603
+   > block timestamp:     1608501727
+   > account:             0x13bfb3f0637Ef3443CD881DD438abd0517EA3Dd1
+   > balance:             6.24626074
+   > gas used:            186963 (0x2da53)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00373926 ETH
+
+   Pausing for 10 confirmations...
+   -------------------------------
+   > confirmation number: 1 (block: 4678606)
+   > confirmation number: 2 (block: 4678607)
+   > confirmation number: 4 (block: 4678609)
+   > confirmation number: 5 (block: 4678610)
+   > confirmation number: 6 (block: 4678611)
+   > confirmation number: 8 (block: 4678613)
+   > confirmation number: 9 (block: 4678614)
+   > confirmation number: 10 (block: 4678615)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00373926 ETH
+
+
+2_deployments.js
+================
+Deploying from 0x13bfb3f0637Ef3443CD881DD438abd0517EA3Dd1
+
+   Deploying 'CruiseMerkle'
+   ------------------------
+   > transaction hash:    0x03d759e6ba2cc238c76d59f5b798dec177238c2ab84039196276e019ba81cc1f
+   > Blocks: 4            Seconds: 11
+   > contract address:    0x953863979b528E1956ABbED5Faab522e3c1eBA29
+   > block number:        4678624
+   > block timestamp:     1608501790
+   > account:             0x13bfb3f0637Ef3443CD881DD438abd0517EA3Dd1
+   > balance:             6.23687812
+   > gas used:            426796 (0x6832c)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00853592 ETH
+
+   Pausing for 10 confirmations...
+   -------------------------------
+   > confirmation number: 2 (block: 4678628)
+   > confirmation number: 3 (block: 4678629)
+   > confirmation number: 5 (block: 4678631)
+   > confirmation number: 6 (block: 4678632)
+   > confirmation number: 7 (block: 4678633)
+   > confirmation number: 9 (block: 4678635)
+   > confirmation number: 10 (block: 4678636)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00853592 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.01227518 ETH
