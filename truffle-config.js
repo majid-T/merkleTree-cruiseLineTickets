@@ -75,7 +75,7 @@ module.exports = {
     // network_id: 2111,   // This network is yours, in the cloud.
     // production: true    // Treats this network as if it was a public net. (default: false)
     // }
-      rinkeby: {
+    rinkeby: {
       provider: function() { 
       //  return new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/${infuraKey}`);
         return new HDWalletProvider(mnemonic,`https://rinkeby.infura.io/v3/${infuraKey}`);
@@ -85,7 +85,21 @@ module.exports = {
       gasPrice: 25000000000, // 25 Gwei. default = 100 gwei = 100000000000
       skipDryRun: true,
       timeoutBlocks: 200
-    }
+    },
+    testnet: {
+      provider: () => new HDWalletProvider(mnemonic, `https://data-seed-prebsc-1-s1.binance.org:8545`),
+      network_id: 97,
+      confirmations: 10,
+      timeoutBlocks: 200,
+      skipDryRun: true
+    },
+    bsc: {
+      provider: () => new HDWalletProvider(mnemonic, `https://bsc-dataseed1.binance.org`),
+      network_id: 56,
+      confirmations: 10,
+      timeoutBlocks: 200,
+      skipDryRun: true
+    },
   },
 
   // Set default mocha options here, use special reporters etc.
