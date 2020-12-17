@@ -64,4 +64,16 @@ Tests are performed on the contract using truffle and below are the results
 
 ### Rinkeby deploy
 
+#### Address on Rinkeby
+
+0xa868b2855885e2915069adbbeddf4566083aa00f
+
 1. run truffle migrate --network rinkeby to deploy to rinkeby }
+
+### BSC deploy
+
+#### Address on BSC
+
+0x04501e4f31380e7d1e727de42e5c9544f5d3fbe8
+
+1. run npx truffle migrate --network testnet
