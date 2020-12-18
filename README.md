@@ -59,3 +59,9 @@ Tests are performed on the contract using truffle and below are the results
 1. cd to the directory
 1. npm install to get packages
 1. run truffle test to see test cases and their results
+1. run npx truffle develop to run a local blockchain copy
+1. in truffle cli type migrate to deploy locally
+
+### Rinkeby deploy
+
+1. run truffle migrate --network rinkeby to deploy to rinkeby }
