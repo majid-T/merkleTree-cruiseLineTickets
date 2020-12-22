@@ -2,36 +2,58 @@ import './App.css';
 import CruiseMerkle from "./contract/CruiseMerkle.json";
 import Web3 from 'web3';
 
+
+
 function App() {
-  const port = 8545;
-  const web3 = new Web3("https://data-seed-prebsc-1-s1.binance.org:" + port);
-
   let contract;
-  const allAccounts = [];
+  let account;
 
-  const loadBlockchainData = async () => {
-    // Check network Id
-    const networkId = await web3.eth.net.getId();
-    console.log(networkId);
+  const loadWeb3 = async ()=>{
+      if (window.ethereum) {
+        window.web3 = new Web3(window.ethereum);
+        await window.ethereum.enable();
+      }else if(window.web3){
+        window.web3 = new Web3(window.web3.currnetProvider)
+      }else{
+        window.alert("None Ethereum borswer - please use Meta mask or other wallet of your choice")
+      }
+  }
 
-    //Setting all accounts
-    const accounts = await web3.eth.getAccounts();
-    // console.log(accounts)
+  const loadContractAndAddress = async ()=>{
+      const networkId = await window.web3.eth.net.getId();
 
-    // Geting the contract
+      account = await window.web3.eth.getAccounts();
+
+      // Geting the contract
     const networkData = CruiseMerkle.networks[networkId];
 
     if (networkData) {
       const abi = CruiseMerkle.abi;
-      const address = "0x04501e4f31380e7d1e727de42e5c9544f5d3fbe8";
-      contract = await new web3.eth.Contract(abi, address);
-      console.log(contract.methods)
+      const address = "0x953863979b528E1956ABbED5Faab522e3c1eBA29";
+      contract = await new window.web3.eth.Contract(abi, address);
+      console.log("METHODS",contract)
     } else {
       window.alert("Smart contract not deployed to detected network.");
     }
-  };
+  }
 
-  loadBlockchainData();
+
+  const loadBlockchainData3 = async ()=>{
+
+      //setting network to connect to wallet provide - here is BSC
+      await loadWeb3();
+
+      // load contract and address from the wallet
+      await loadContractAndAddress();
+      
+      console.log(account)
+
+    //Test cotract by calling a view method
+    const deployedMerkleRoot = await contract.methods.lineMerkleRoot().call();
+    console.log(deployedMerkleRoot)
+  }
+
+  loadBlockchainData3();
   return (
     <div className="App">
       <h1>BSC Test Net</h1>
