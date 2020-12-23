@@ -66,14 +66,16 @@ Tests are performed on the contract using truffle and below are the results
 
 #### Address on Rinkeby
 
-0xa868b2855885e2915069adbbeddf4566083aa00f
+Address: 0xa868b2855885e2915069adbbeddf4566083aa00f
+txHash : 0x3d31cf94a10c82cf894a0ce9c8052a369b985baef181a25082388defc7ffe791
 
 1. run truffle migrate --network rinkeby to deploy to rinkeby }
 
 ### BSC deploy
 
-#### Address on BSC
+#### contract details on BSC
 
-0x04501e4f31380e7d1e727de42e5c9544f5d3fbe8
+Address: 0x953863979b528E1956ABbED5Faab522e3c1eBA29
+txHash : 0x03d759e6ba2cc238c76d59f5b798dec177238c2ab84039196276e019ba81cc1f
 
 1. run npx truffle migrate --network testnet
