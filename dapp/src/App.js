@@ -3,7 +3,6 @@ import CruiseMerkle from "./contract/CruiseMerkle.json";
 import Web3 from 'web3';
 
 
-
 function App() {
   let contract;
   let account;
@@ -25,13 +24,10 @@ function App() {
       account = await window.web3.eth.getAccounts();
 
       // Geting the contract
-    const networkData = CruiseMerkle.networks[networkId];
+    const contractNetworkData = await CruiseMerkle.networks[networkId];
 
-    if (networkData) {
-      const abi = CruiseMerkle.abi;
-      const address = "0x953863979b528E1956ABbED5Faab522e3c1eBA29";
-      contract = await new window.web3.eth.Contract(abi, address);
-      console.log("METHODS",contract)
+    if (contractNetworkData) {
+      contract = await new window.web3.eth.Contract(CruiseMerkle.abi, contractNetworkData.address);
     } else {
       window.alert("Smart contract not deployed to detected network.");
     }
@@ -46,7 +42,7 @@ function App() {
       // load contract and address from the wallet
       await loadContractAndAddress();
       
-      console.log(account)
+      // console.log(account)
 
     //Test cotract by calling a view method
     const deployedMerkleRoot = await contract.methods.lineMerkleRoot().call();
