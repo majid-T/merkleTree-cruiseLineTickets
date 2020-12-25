@@ -1,11 +1,13 @@
 import './App.css';
 import CruiseMerkle from "./contract/CruiseMerkle.json";
 import Web3 from 'web3';
+import {useEffect,useState} from 'react'
 
 
 function App() {
-  let contract;
-  let account;
+  const [contract,setContract] = useState();
+  const [account,setAccount] = useState();
+  const [loading,setLoading]=useState(true)
 
   const loadWeb3 = async ()=>{
       if (window.ethereum) {
@@ -21,20 +23,23 @@ function App() {
   const loadContractAndAddress = async ()=>{
       const networkId = await window.web3.eth.net.getId();
 
-      account = await window.web3.eth.getAccounts();
+      const userAccount = await window.web3.eth.getAccounts();
+      setAccount(userAccount);
 
       // Geting the contract
     const contractNetworkData = await CruiseMerkle.networks[networkId];
 
     if (contractNetworkData) {
-      contract = await new window.web3.eth.Contract(CruiseMerkle.abi, contractNetworkData.address);
+      const merkleContract = await new window.web3.eth.Contract(CruiseMerkle.abi, contractNetworkData.address);
+      setContract(merkleContract);
     } else {
       window.alert("Smart contract not deployed to detected network.");
     }
+    
   }
 
 
-  const loadBlockchainData3 = async ()=>{
+  const loadBlockchainData = async ()=>{
 
       //setting network to connect to wallet provide - here is BSC
       await loadWeb3();
@@ -42,17 +47,26 @@ function App() {
       // load contract and address from the wallet
       await loadContractAndAddress();
       
-      // console.log(account)
+      console.log(contract)
+      setLoading(false)
 
     //Test cotract by calling a view method
-    const deployedMerkleRoot = await contract.methods.lineMerkleRoot().call();
-    console.log(deployedMerkleRoot)
+    // const deployedMerkleRoot = await contract.methods.lineMerkleRoot().call();
+    // console.log(deployedMerkleRoot)
   }
 
-  loadBlockchainData3();
+
+  useEffect(() => {
+      loadBlockchainData();
+  }, [loading]);
+
+
   return (
     <div className="App">
       <h1>BSC Test Net</h1>
+      <h3>contract Address: {contract._address}</h3>
+      <h4>connected account: {account}</h4>
+      
     </div>
   );
 }
