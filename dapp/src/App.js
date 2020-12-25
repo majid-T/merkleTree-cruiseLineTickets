@@ -8,6 +8,7 @@ function App() {
   const [contract,setContract] = useState();
   const [account,setAccount] = useState();
   const [loading,setLoading]=useState(true)
+  const [merkleRoot,setMerkleRoot]=useState('')
 
   const loadWeb3 = async ()=>{
       if (window.ethereum) {
@@ -47,26 +48,29 @@ function App() {
       // load contract and address from the wallet
       await loadContractAndAddress();
       
-      console.log(contract)
       setLoading(false)
 
     //Test cotract by calling a view method
-    // const deployedMerkleRoot = await contract.methods.lineMerkleRoot().call();
-    // console.log(deployedMerkleRoot)
+    const merkleRoot = await contract.methods.lineMerkleRoot().call();
+    setMerkleRoot(merkleRoot)
   }
 
 
   useEffect(() => {
-      loadBlockchainData();
+      loadBlockchainData()
   }, [loading]);
 
 
   return (
     <div className="App">
-      <h1>BSC Test Net</h1>
-      <h3>contract Address: {contract._address}</h3>
-      <h4>connected account: {account}</h4>
-      
+      {!loading && (
+        <div className="container">
+          <h1>BSC Test Net</h1>
+          <h4>Contract Address: {contract._address}</h4>
+          <h4>Connected Account: {account}</h4>
+          <h4>Contract Merkle Root: {merkleRoot}</h4>
+        </div>
+      )}
     </div>
   );
 }
