@@ -2,8 +2,13 @@ import "./App.css";
 import CruiseMerkle from "./contract/CruiseMerkle.json";
 import Web3 from "web3";
 import { useEffect, useState } from "react";
+import { useSelector, useDispatch } from "react-redux";
+import { selectNetworkId, setNetworkId } from "./features/contractSlice";
 
 function App() {
+  const networkId = useSelector(selectNetworkId);
+  const dispatch = useDispatch();
+  const [incrementAmount, setIncrementAmount] = useState("2");
   const [contract, setContract] = useState();
   const [account, setAccount] = useState();
   const [loading, setLoading] = useState(true);
@@ -23,13 +28,13 @@ function App() {
   };
 
   const loadContractAndAddress = async () => {
-    const networkId = await window.web3.eth.net.getId();
+    const netId = await window.web3.eth.net.getId();
 
     const userAccount = await window.web3.eth.getAccounts();
     setAccount(userAccount);
 
     // Geting the contract
-    const contractNetworkData = await CruiseMerkle.networks[networkId];
+    const contractNetworkData = await CruiseMerkle.networks[netId];
 
     if (contractNetworkData) {
       const merkleContract = await new window.web3.eth.Contract(
@@ -50,7 +55,6 @@ function App() {
     await loadContractAndAddress();
 
     setLoading(false);
-    console.log("TEST");
 
     //Test cotract by calling a view method
     if (contract) {
@@ -67,7 +71,7 @@ function App() {
     <div className="App">
       {!loading && (
         <div className="container">
-          <h1>BSC Test Net</h1>
+          <h1>BSC Test Net - network Id : {networkId}</h1>
           <h4>Contract Address: {contract._address}</h4>
           <h4>Connected Account: {account}</h4>
           <h4>Contract Merkle Root: {merkleRoot}</h4>
